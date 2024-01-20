@@ -1,0 +1,100 @@
+{
+    "nature": {
+        "PGBR": {
+            "image": [
+                "PGBR1.jpeg",
+                "PGBR2.jpeg"
+            ]
+        },
+        "PGBX": {
+            "image": [
+                "PGBX1.jpg",
+                "PGBX2.jpg"
+            ]
+        },
+        "PGER": {
+            "image": [
+                "PGER1.jpeg",
+                "PGER2.jpeg"
+            ]
+        },
+        "PGEX": {
+            "image": [
+                "PGEX1.jpg",
+                "PGEX2.jpeg"
+            ]
+        },
+        "POBR": {
+            "image": [
+                "POBR1.jpeg",
+                "POBR2.jpeg"
+            ]
+        },
+        "POBX": {
+            "image": [
+                "POBX1.jpg",
+                "POBX2.jpeg"
+            ]
+        },
+        "POER": {
+            "image": [
+                "POER1.jpeg",
+                "POER2.jpeg"
+            ]
+        },
+        "POEX": {
+            "image": [
+                "POEX1.jpeg",
+                "POEX2.jpeg"
+            ]
+        },
+        "KGBR": {
+            "image": [
+                "KGBR1.jpeg",
+                "KGBR2.jpeg"
+            ]
+        },
+        "KGBX": {
+            "image": [
+                "KGBX1.jpeg",
+                "KGBX2.jpeg"
+            ]
+        },
+        "KGER": {
+            "image": [
+                "KGER1.jpeg",
+                "KGER2.jpg"
+            ]
+        },
+        "KGEX": {
+            "image": [
+                "KGEX1.jpg",
+                "KGEX2.jpg"
+            ]
+        },
+        "KOBR": {
+            "image": [
+                "KOBR1.jpeg",
+                "KOBR2.jpeg"
+            ]
+        },
+        "KOBX": {
+            "image": [
+                "KOBX1.jpeg",
+                "KOBX2.jpeg"
+            ]
+        },
+        "KOER": {
+            "image": [
+                "KOER1.jpeg",
+                "KOER2.jpeg"
+            ]
+        },
+        "KOEX": {
+            "image": [
+                "KOEX1.jpeg",
+                "KOEX2.jpeg"
+            ]
+        }
+    }
+}

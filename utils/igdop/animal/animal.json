@@ -1,0 +1,94 @@
+{
+    "animal": {
+        "PGBR": {
+            "image": [
+                "PGBR_Eagle1.jpg",
+                "PGBR_Eagle2.jpg"
+            ]
+        },
+        "PGBX": {
+            "image": [
+                "PGBX_Cheetah1.jpg",
+                "PGBX_Cheetah2.jpg"
+            ]
+        },
+        "PGEX": {
+            "image": [
+                "PGEX_Bird1.jpg",
+                "PGEX_Bird2.jpg"
+            ]
+        },
+        "POBR": {
+            "image": [
+                "POBR_Lion1.jpg",
+                "POBR_Lion2.jpg"
+            ]
+        },
+        "POBX": {
+            "image": [
+                "POBX_Fox1.jpg",
+                "POBX_Fox2.jpg"
+            ]
+        },
+        "POER": {
+            "image": [
+                "POER_Dog1.jpg",
+                "POER_Dog2.jpg"
+            ]
+        },
+        "POEX": {
+            "image": [
+                "POEX_Beluga1.jpg",
+                "POEX_Beluga2.jpg"
+            ]
+        },
+        "KGBR": {
+            "image": [
+                "KGBR_Beaver1.jpg",
+                "KGBR_Beaver2.jpg"
+            ]
+        },
+        "KGBX": {
+            "image": [
+                "KGBX_Cat1.jpg",
+                "KGBX_Cat2.jpg"
+            ]
+        },
+        "KGER": {
+            "image": [
+                "KGER_Deer1.jpg",
+                "KGER_Deer2.jpg"
+            ]
+        },
+        "KGEX": {
+            "image": [
+                "KGEX_Butterfly1.jpg",
+                "KGEX_Butterfly2.jpg"
+            ]
+        },
+        "KOBR": {
+            "image": [
+                "KOBR_Wolf1.jpg",
+                "KOBR_Wolf2.jpg"
+            ]
+        },
+        "KOBX": {
+            "image": [
+                "KOBX_Owl1.jpg",
+                "KOBX_Owl2.jpg"
+            ]
+        },
+        "KOER": {
+            "image": [
+                "KOER_Swan1.jpg",
+                "KOER_Swan2.jpg"
+            ]
+        },
+        "KOEX": {
+            "image": [
+                "KOEX_Unicorn1.jpg",
+                "KOEX_Unicorn2.jpg"
+            ]
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "space": {
+        "PGBR": {
+            "image": [
+                "PGBR_Sun1.jpg",
+                "PGBR_Sun2.jpg",
+                "PGBR_Sun3.jpg"
+            ]
+        },
+        "PGBX": {
+            "image": [
+                "PGBX_Ufo1.jpg",
+                "PGBX_Ufo2.jpg",
+                "PGBX_Ufo3.jpg"
+            ]
+        },
+        "PGER": {
+            "image": [
+                "PGER_Saturn1.jpg",
+                "PGER_Saturn2.jpg"
+            ]
+        },
+        "PGEX": {
+            "image": [
+                "PGEX_Cosmic.jpg",
+                "PGEX2_Quasar.jpg"
+            ]
+        },
+        "POBR": {
+            "image": [
+                "POBR_Jupiter1.jpg",
+                "POBR_Jupiter2.jpg"
+            ]
+        },
+        "POBX": {
+            "image": [
+                "POBX_Neutron1.jpg",
+                "POBX_Neutron2.jpg",
+                "POBX_Neutron3.jpg"
+            ]
+        },
+        "POER": {
+            "image": [
+                "POER_Earth1.jpg",
+                "POER_Earth2.jpg"
+            ]
+        },
+        "POEX": {
+            "image": [
+                "POEX_Nebula1.jpg",
+                "POEX_Nebula2.jpg",
+                "POEX_Nebula3.jpg"
+            ]
+        },
+        "KGBR": {
+            "image": [
+                "KGBR_Asteroid.jpg",
+                "KGBR_Mercury1.jpg",
+                "KGBR_Mercury2.jpg"
+            ]
+        },
+        "KGBX": {
+            "image": [
+                "KGBX_Oumuamua.jpg",
+                "KGBX_Venus1.jpg",
+                "KGBX_Venus2.jpg"
+            ]
+        },
+        "KGER": {
+            "image": [
+                "KGER_Mars.jpg"
+            ]
+        },
+        "KGEX": {
+            "image": [
+                "KGEX_Dust1.jpg",
+                "KGEX_Dust2.jpg",
+                "KGEX_Nebula.jpg"
+            ]
+        },
+        "KOBR": {
+            "image": [
+                "KOBR_Neptune1.jpg",
+                "KOBR_Neptune2.jpg"
+            ]
+        },
+        "KOBX": {
+            "image": [
+                "KOBX_Nebula1.jpg",
+                "KOBX_Nebula2.jpg",
+                "KOBX_Satellite.jpg"
+            ]
+        },
+        "KOER": {
+            "image": [
+                "KOER_Blackhole.jpg",
+                "KOER_WhiteDwarf.jpg"
+            ]
+        },
+        "KOEX": {
+            "image": [
+                "KOEX_Magnetar1.jpg",
+                "KOEX_Magnetar2.jpg"
+            ]
+        }
+    }
+}

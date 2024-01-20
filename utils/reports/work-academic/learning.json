@@ -1,0 +1,370 @@
+{
+    "PGBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] excels in structured environments, where [THEIR] methodical and logical approach can shine. [THEY] is adept at organizing tasks and projects, ensuring everything is handled efficiently and effectively.",
+                "body": "[NAME] demonstrates a strong commitment to [THEIR] responsibilities, often taking charge in team settings. [THEIR] practical mindset and attention to detail enable [THEM] to produce consistent, high-quality work. [THEY] is not swayed by emotional biases, instead relying on facts and logic to make decisions. This rational approach makes [THEM] a reliable and trustworthy team member or leader.",
+                "conclusion": "While [NAME] may sometimes be perceived as too direct, especially in [THEIR] communication style, it is this straightforwardness that often drives [THEIR] success in achieving goals. [THEY] has a talent for identifying and capitalizing on opportunities, making [THEM] well-suited for roles that require strategic planning and execution. [THEIR] strong sense of duty and ability to stay focused on the end goal often leads to significant accomplishments in [THEIR] professional life."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is known for [THEIR] pragmatic and decisive nature, excelling in environments where [THEIR] strong organizational skills can be put to good use. [THEY] approach tasks with a clear and strategic mindset, ensuring that [THEIR] goals are not only set but also effectively achieved.",
+                "body": "[NAME] upholds a high standard of efficiency in [THEIR] work, consistently delivering results that reflect [THEIR] dedication and reliability. [THEY] prefer dealing with concrete facts and realistic possibilities, steering clear of ambiguity. [THEIR] ability to remain unswayed by emotional arguments allows [THEM] to make objective decisions that are beneficial for [THEIR] team and projects. [THEY] also possesses a natural leadership quality, often taking the initiative in collaborative settings.",
+                "conclusion": "[NAME]'s direct communication style and assertiveness can sometimes be mistaken for inflexibility. However, it is this very assertiveness that enables [THEM] to effectively manage challenges and obstacles. [THEY] is particularly skilled in roles that demand critical thinking and tactical planning, and [THEIR] strong sense of responsibility often leads to significant achievements in [THEIR] professional endeavors."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME]'s approach to work and life is characterized by [THEIR] strong sense of order and discipline. [THEY] excel in situations where [THEY] can apply [THEIR] systematic and methodical approach to solve complex problems.",
+                "body": "In [THEIR] professional life, [NAME] is known for [THEIR] reliability and commitment to excellence. [THEY] focus on practical solutions and are adept at breaking down complex tasks into manageable steps. This meticulous attention to detail ensures that [THEY] not only meet but often exceed expectations. [THEY] has a rational and analytical mind, which [THEY] use to navigate through challenges, always keeping [THEIR] eyes on the ultimate objective.",
+                "conclusion": "While [NAME]'s straightforwardness in communication and decision-making is one of [THEIR] greatest strengths, it can also lead to misinterpretations of [THEIR] intentions as being too rigid. Despite this, [THEIR] ability to remain focused and composed under pressure makes [THEM] an invaluable asset in any professional setting. [THEIR] dedication and strategic thinking often pave the way for notable success in [THEIR] career."
+            }
+        }
+    },
+    "PGBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] thrives in dynamic environments, bringing an energetic and spontaneous approach to both work and life. [THEY] is quick to adapt to new situations, demonstrating an impressive ability to think on [THEIR] feet.",
+                "body": "[NAME]'s preference for action and practical solutions is evident in [THEIR] work style. [THEY] is not afraid to take risks if [THEY] believe it will lead to a positive outcome. [THEIR] ability to stay calm and focused in high-pressure situations makes [THEM] an invaluable team player, especially in crisis management. [THEY] possesses a natural charisma and are skilled at persuading others, often using [THEIR] sense of humor and interpersonal skills to influence and motivate those around [THEM].",
+                "conclusion": "While [NAME]'s risk-taking and spontaneous nature can sometimes lead to unpredictability, it is also what drives [THEIR] innovative spirit. [THEY] excel in roles that require quick thinking and flexibility, often finding unique and effective solutions to complex problems. [THEIR] zest for life and ability to navigate challenges with a positive attitude often inspire others and lead to unexpected but remarkable achievements in [THEIR] professional and personal endeavors."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a natural at navigating fast-paced and ever-changing environments, embodying the spirit of adaptability and excitement. [THEIR] energetic approach to challenges makes [THEM] stand out in [THEIR] field.",
+                "body": "[NAME] possesses an innate ability to think quickly and act decisively, often bringing a fresh perspective to conventional problems. [THEY] is not deterred by risks, instead seeing them as opportunities for innovation. [THEIR] excellent communication skills and persuasive nature enable [THEM] to rally others behind [THEIR] ideas. [THEY] is at [THEIR] best when [THEY] can use [THEIR] spontaneity and tactical thinking to overcome obstacles and drive projects forward.",
+                "conclusion": "Though [NAME]'s love for excitement and tendency to focus on the present can sometimes appear as impulsiveness, it is this very quality that allows [THEM] to excel in dynamic and challenging situations. [THEY] is particularly effective in roles that demand agility and out-of-the-box thinking, and [THEIR] enthusiasm often leads to significant, albeit sometimes unconventional, accomplishments."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] brings a vibrant and energetic presence to any team, characterized by [THEIR] ability to quickly adapt and respond to changing circumstances. [THEY] approach life with a keen sense of adventure and a desire to experience all it has to offer.",
+                "body": "In [THEIR] professional life, [NAME] is known for [THEIR] pragmatic approach to problem-solving. [THEY] is not one to get bogged down in details, preferring instead to focus on actionable solutions. [THEIR] talent for improvisation makes [THEM] a valuable asset in situations that require quick thinking and adaptability. [THEY] is also highly persuasive, using [THEIR] charm and wit to influence and lead others effectively.",
+                "conclusion": "[NAME]'s preference for variety and challenge can sometimes lead to a lack of long-term planning, but it also fuels [THEIR] innovative and entrepreneurial spirit. [THEY] excel in roles that require flexibility, a hands-on approach, and the ability to think on [THEIR] feet. [THEIR] energy and enthusiasm not only drive [THEM] to achieve [THEIR] own goals but also serve to motivate and inspire those around [THEM]."
+            }
+        }
+    },
+    "PGER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] excels in roles that require a nurturing and collaborative approach. [THEY] is highly sociable and value harmony in both personal and professional relationships. [THEIR] ability to understand and empathize with others makes [THEM] an excellent team player.",
+                "body": "[NAME] is known for [THEIR] strong organizational skills and attention to detail, which [THEY] apply to ensure that projects and tasks are not only completed, but also reach a high standard. [THEY] is practical and realistic, often serving as the grounding force in [THEIR] team. [THEIR] preference for structure and order guides [THEM] in creating efficient systems and processes. [THEY] is also adept at communicating, often using [THEIR] interpersonal skills to build strong relationships and foster a cooperative work environment.",
+                "conclusion": "While [NAME] may sometimes prioritize the needs and feelings of others over [THEIR] own, it is this selfless nature that makes [THEM] a highly valued and respected member of any group. [THEY] thrive in roles that allow [THEM] to support and care for others, and [THEIR] dedication to helping those around [THEM] often leads to significant and meaningful achievements in both [THEIR] professional and personal life."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is recognized for [THEIR] warmth and approachable nature, often acting as the glue that holds teams together. [THEY] has a talent for creating a positive and inclusive atmosphere in both work and social settings.",
+                "body": "[NAME]'s strengths lie in [THEIR] ability to communicate effectively and empathize with others, making [THEM] an excellent mediator and collaborator. [THEY] is meticulous and take pride in [THEIR] work, ensuring that every detail is taken care of. [THEIR] practical nature and strong sense of duty drive [THEM] to seek the best outcomes, not just for [THEMSELVES] but for everyone involved. [THEY] is particularly adept at organizing events and managing projects, always with a focus on the needs and comfort of others.",
+                "conclusion": "Although [NAME] may occasionally overlook [THEIR] own needs in favor of supporting others, it is this selfless dedication that endears [THEM] to [THEIR] colleagues and friends. [THEY] excel in roles that require nurturing and caring for others, and [THEIR] ability to create harmony and work cooperatively towards common goals often results in lasting and impactful achievements."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME]'s caring and supportive nature shines through in all aspects of [THEIR] life. [THEY] is naturally drawn to roles that allow [THEM] to be of service to others, using [THEIR] excellent interpersonal skills to build and maintain strong relationships.",
+                "body": "In the workplace, [NAME] is seen as a dependable and conscientious team member. [THEY] is adept at understanding the dynamics of group interactions and often take on the role of peacemaker. [THEY] combine [THEIR] keen organizational skills with a practical approach to ensure that projects run smoothly and efficiently. [THEY] has a natural ability to recognize and respond to the needs of others, often going out of [THEIR] way to offer help and support.",
+                "conclusion": "While [NAME]'s tendency to prioritize others' needs can sometimes be challenging, it also contributes to [THEIR] success in roles that require teamwork and collaboration. [THEY] thrive in environments where [THEY] can use [THEIR] skills to foster a sense of community and belonging. [THEIR] dedication to helping and supporting others not only makes [THEM] a valued team member but also leads to fulfilling and meaningful accomplishments in [THEIR] career."
+            }
+        }
+    },
+    "PGEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] radiates a vibrant and enthusiastic energy, bringing a sense of excitement and spontaneity to both their professional and personal life. [THEY] is highly observant, quickly adapting to new situations with a flair for improvisation.",
+                "body": "[NAME] excels in environments where [THEY] can interact with others and engage in hands-on activities. [THEIR] ability to think on [THEIR] feet and respond to immediate needs is unmatched, making [THEM] an invaluable asset in fast-paced settings. [THEY] enjoy the limelight and have a knack for entertaining and captivating an audience, often using [THEIR] charm and wit to influence and motivate those around [THEM]. Despite [THEIR] love for the spontaneous, [NAME] is also pragmatic, able to balance [THEIR] adventurous spirit with a down-to-earth approach when necessary.",
+                "conclusion": "While [NAME]'s free-spirited nature might sometimes lead to a lack of long-term planning, it's this very quality that drives [THEIR] ability to live in the moment and bring a unique perspective to any challenge. [THEY] thrive in roles that require adaptability, creativity, and a strong interpersonal connection, and [THEIR] energetic and engaging personality often leads to memorable and impactful achievements."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] embodies a lively and charismatic presence, effortlessly drawing others in with [THEIR] natural charm and enthusiasm. [THEY] is always ready to explore new experiences and enjoy life to the fullest.",
+                "body": "[NAME]'s strengths lie in [THEIR] ability to connect with people on a personal level. [THEY] is an excellent communicator, using [THEIR] empathetic nature to understand and relate to others. In the workplace, [THEY] bring a sense of fun and creativity, often thinking outside the box to come up with innovative solutions. [THEIR] adaptability allows [THEM] to thrive in unpredictable environments, and [THEY] has a talent for improvising when faced with unexpected challenges.",
+                "conclusion": "Though [NAME]'s focus on the present can sometimes lead to a lack of long-term planning, [THEY] make up for it with [THEIR] ability to make the most of the here and now. [THEY] excel in roles that require flexibility, a strong sense of awareness, and the ability to engage with others in a meaningful way. [THEIR] zest for life not only motivates [THEM] but also inspires those around [THEM], leading to vibrant and impactful results."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is the epitome of vivacity and charm, always ready to embrace new adventures and experiences. [THEY] has a unique ability to live in the moment and bring a sense of excitement and joy to everyday tasks.",
+                "body": "At work, [NAME] is known for [THEIR] resourcefulness and ability to adapt quickly to changing circumstances. [THEY] has a keen eye for detail and can easily spot opportunities that others might overlook. [THEY] use [THEIR] social skills to build strong relationships, making [THEM] a valued team member in collaborative environments. [THEY] enjoy being in the spotlight and are often at [THEIR] best when [THEY] can express [THEMSELVES] creatively, whether it’s through problem-solving or brainstorming sessions.",
+                "conclusion": "While [NAME]'s spontaneous nature can sometimes be seen as a lack of consistency, it is this very spontaneity that fuels [THEIR] creativity and ability to adapt. [THEY] is particularly suited for roles that demand quick thinking, an outgoing personality, and a hands-on approach. [THEIR] passion for life and ability to engage with others on a genuine level often leads to memorable and successful outcomes in both [THEIR] personal and professional endeavors."
+            }
+        }
+    },
+    "POBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] exhibits a natural leadership quality, combining a strategic mind with an assertive approach. [THEY] excel in situations that require critical thinking and decisive action. [THEIR] confidence and drive make [THEM] a formidable presence in any professional setting.",
+                "body": "[NAME] is known for [THEIR] ability to see the bigger picture and devise comprehensive strategies to achieve [THEIR] goals. [THEY] is not afraid to take on challenges, often pushing [THEMSELVES] and others to reach new heights. [THEIR] communication is direct and to the point, enabling [THEM] to convey [THEIR] ideas clearly and persuasively. [THEY] value efficiency and effectiveness, and are skilled at organizing resources and people to optimize performance.",
+                "conclusion": "While [NAME]'s ambitious and commanding nature can sometimes be overwhelming to others, it is this very assertiveness that drives [THEIR] success. [THEY] thrive in leadership roles that require strategic planning and strong decision-making skills. [THEIR] capacity to lead and inspire others often leads to significant achievements and advancements in [THEIR] chosen field."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a dynamic and forward-thinking individual, known for [THEIR] ability to lead with vision and determination. [THEY] possesses a natural aptitude for strategic planning and are not afraid to take bold steps to achieve [THEIR] objectives.",
+                "body": "[NAME]'s strength lies in [THEIR] analytical and logical approach to problem-solving. [THEY] is adept at breaking down complex challenges into manageable parts and devising effective solutions. [THEIR] assertive nature and confidence in decision-making inspire those around [THEM], fostering a culture of excellence and ambition. [THEY] is also skilled at leveraging [THEIR] network and resources to maximize the impact of [THEIR] initiatives.",
+                "conclusion": "While [NAME]'s direct and no-nonsense approach can sometimes come across as intimidating, it is this straightforwardness that makes [THEM] an effective leader. [THEY] excel in environments that demand quick thinking, strong leadership, and the ability to drive change. [THEIR] visionary leadership style not only propels [THEM] towards [THEIR] own goals but also motivates others to achieve their best."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] stands out for [THEIR] commanding presence and ability to steer projects and teams towards success. [THEY] is a natural-born leader, combining charisma with a strategic mindset to navigate complex challenges.",
+                "body": "In [THEIR] professional endeavors, [NAME] is known for [THEIR] exceptional organizational skills and a focus on results. [THEY] approach tasks with a clear vision and a structured plan, ensuring that every step taken is aligned with [THEIR] overarching goals. [THEIR] decisiveness and ability to think several steps ahead make [THEM] an invaluable asset in high-stakes situations. [THEY] is not just a planner but also an executor, driving [THEIR] team to deliver top-notch results.",
+                "conclusion": "Though [NAME]'s intensity and high expectations can be challenging for some, these traits are what drive [THEIR] effectiveness as a leader. [THEY] thrive in roles that require strategic oversight, innovative thinking, and the ability to make tough decisions. [THEIR] leadership not only brings about significant outcomes but also fosters a culture of excellence and progress."
+            }
+        }
+    },
+    "POBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is known for [THEIR] quick wit and inventive mind, often bringing a unique and fresh perspective to discussions and projects. [THEY] thrive in dynamic environments where [THEY] can explore new ideas and challenge conventional thinking.",
+                "body": "[NAME] excels at identifying possibilities and potential in a variety of situations, using [THEIR] creativity and intellectual curiosity to solve problems. [THEY] enjoy engaging in lively debates, using [THEIR] analytical skills to dissect and understand different viewpoints. [THEY] is adaptable and resourceful, able to navigate complex situations with ease. [THEIR] enthusiasm for learning and exploring new concepts is infectious, often inspiring those around [THEM] to think more broadly and creatively.",
+                "conclusion": "While [NAME]'s tendency to question and challenge the status quo can sometimes be seen as contrarian, it is this very quality that makes [THEM] a valuable innovator and thinker. [THEY] is well-suited for roles that require strategic thinking, flexibility, and a non-traditional approach. [THEIR] ability to connect disparate ideas and concepts often leads to breakthroughs and significant advancements in [THEIR] professional and personal endeavors."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is recognized for [THEIR] innovative thinking and ability to approach problems from unique angles. [THEY] has a natural talent for seeing beyond the conventional and bringing new ideas to the table.",
+                "body": "[NAME]'s intellectual curiosity drives [THEM] to constantly seek out new knowledge and experiences. [THEY] is adept at synthesizing information from various sources to come up with original solutions. [THEIR] communication skills are sharp, allowing [THEM] to articulate complex ideas clearly and persuasively. [THEY] enjoy the process of brainstorming and are often at the forefront of creative problem-solving sessions. [THEIR] flexible mindset enables [THEM] to adapt quickly to changes and pivot strategies effectively.",
+                "conclusion": "While [NAME]'s enthusiasm for exploration and tendency to challenge traditional methods can sometimes lead to unpredictability, it is this explorative spirit that fosters [THEIR] innovative capabilities. [THEY] excel in roles that require out-of-the-box thinking, a strategic mindset, and the ability to engage with complex, abstract concepts. [THEIR] inventive approach not only drives [THEM] to personal success but also contributes significantly to the success of [THEIR] teams and projects."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] stands out for [THEIR] energetic and intellectually stimulating presence. [THEY] is constantly seeking to understand the world around [THEM], driven by a deep-seated curiosity and a desire to challenge the norm.",
+                "body": "In [THEIR] professional life, [NAME] is a powerhouse of ideas, often sparking innovation and inspiring creative thinking in [THEIR] team. [THEY] is not afraid to question assumptions and have a knack for uncovering hidden opportunities. [THEY]'re an excellent debater, using [THEIR] sharp wit and comprehensive knowledge to engage and persuade others. [THEY] adapt effortlessly to new environments and situations, applying [THEIR] versatile thinking to a wide range of challenges.",
+                "conclusion": "Although [NAME]'s preference for variety and exploration can sometimes be perceived as a lack of focus, it is precisely this openness to new experiences that makes [THEM] a dynamic and forward-thinking individual. [THEY] thrive in roles that require agility, intellectual engagement, and the ability to think on [THEIR] feet. [THEIR] innovative and versatile approach often leads to groundbreaking results and significant advancements in [THEIR] field."
+            }
+        }
+    },
+    "POER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] possesses a unique blend of empathy and inspiration, making [THEM] a natural leader and motivator. [THEY] excel in roles where [THEY] can guide and support others, using [THEIR] strong interpersonal skills to build meaningful connections.",
+                "body": "[NAME] is known for [THEIR] ability to understand and empathize with people's needs and emotions, making [THEM] an effective communicator and collaborator. [THEY] is not just a dreamer but also a doer, combining [THEIR] idealistic visions with practical plans to make a tangible impact. [THEIR] organizational skills are top-notch, enabling [THEM] to manage projects and teams with a focus on achieving collective goals. [THEY] has an innate ability to see the potential in others and are often involved in coaching, mentoring, or leading initiatives that foster personal and professional growth.",
+                "conclusion": "While [NAME]'s focus on others' needs might sometimes overshadow [THEIR] own, it is this altruistic and caring approach that makes [THEM] a beloved and effective leader. [THEY] thrive in environments that value collaboration and personal development. [THEIR] ability to envision a better future and mobilize others towards this vision often leads to significant and positive changes in [THEIR] community and workplace."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is an influential and charismatic figure, known for [THEIR] ability to connect deeply with others and to inspire those around [THEM]. [THEY] has a genuine interest in the well-being and development of people, making [THEM] a compassionate leader and advisor.",
+                "body": "[NAME] excels in bringing out the best in people, often identifying and nurturing the hidden potential in others. [THEY] is an excellent communicator, able to articulate [THEIR] ideas and visions in a way that is both persuasive and motivating. [THEIR] approach is often holistic, considering the emotional and personal aspects of situations alongside practical needs. [THEY] is adept at creating and maintaining harmonious relationships, and [THEY] foster a cooperative and supportive environment in both [THEIR] professional and personal life.",
+                "conclusion": "Although [NAME] might sometimes prioritize the needs of others over [THEIR] own, [THEIR] empathy and altruism are what make [THEM] an exceptional leader and mentor. [THEY] thrive in roles that allow [THEM] to guide and influence, whether in educational, counseling, or leadership positions. [THEIR] commitment to fostering growth and harmony leads to lasting and impactful achievements."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME]'s presence is a blend of warmth and authority, allowing [THEM] to lead with both compassion and conviction. [THEY] has an innate ability to understand and relate to others, which [THEY] use to build strong, collaborative communities.",
+                "body": "In the workplace, [NAME] is known for [THEIR] visionary leadership and ability to see the big picture. [THEY] is skilled at devising strategies that not only achieve goals but also consider the welfare and development of all involved. [THEY] is a natural motivator, encouraging and empowering others to reach their full potential. [THEY] value integrity and authenticity, and [THEY] strive to create an environment where these qualities are celebrated. [THEIR] approach to problem-solving is both creative and empathetic, ensuring that solutions are beneficial for everyone.",
+                "conclusion": "While [NAME]'s focus on group harmony and consensus can sometimes slow down decision-making, it is this very emphasis on inclusivity that fosters a strong sense of community and loyalty. [THEY] excel in roles that require nurturing talent, guiding teams, and bringing people together towards a common purpose. [THEIR] leadership style not only leads to successful outcomes but also creates a lasting positive impact on those [THEY] work with."
+            }
+        }
+    },
+    "POEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] brings a burst of creativity and enthusiasm to every endeavor, characterized by [THEIR] imaginative and open-minded approach. [THEY] thrive in environments where [THEY] can express [THEMSELVES] freely and explore new ideas.",
+                "body": "[NAME] excels in thinking outside the box and is often the source of innovative solutions and creative strategies. [THEIR] ability to connect with others on an emotional level enhances [THEIR] communication, making [THEM] an effective and persuasive speaker. [THEY] has a natural talent for inspiring and motivating others, driven by [THEIR] genuine interest in people and [THEIR] desire to see them succeed. [THEY] is adaptable and enjoy exploring various possibilities, which makes [THEM] adept at handling change and unexpected challenges.",
+                "conclusion": "While [NAME]'s spontaneous and sometimes unstructured approach might lead to unpredictability, it's this very flexibility and adaptability that allows [THEM] to thrive in dynamic environments. [THEY] excel in roles that require creativity, people skills, and an innovative mindset. [THEIR] enthusiasm and passion for life not only fuel [THEIR] own ambitions but also have a contagious effect on those around [THEM], leading to collaborative and impactful achievements."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME]'s vibrant and charismatic personality shines in all of [THEIR] interactions, drawing people towards [THEM] with [THEIR] infectious enthusiasm and creativity. [THEY] is a natural at inspiring and engaging with others, making [THEM] a beloved figure in both personal and professional circles.",
+                "body": "[NAME] has a remarkable ability to see the potential in people and situations, often thinking outside conventional boundaries to envision what could be. [THEIR] intuitive and empathetic nature allows [THEM] to connect deeply with others, understanding their perspectives and needs. In the workplace, [THEY] bring a sense of excitement and possibility, encouraging innovation and open-mindedness. [THEY] is flexible and spontaneous, able to adapt [THEIR] approach to suit evolving circumstances and challenges.",
+                "conclusion": "Though [NAME]'s preference for exploration and variety can sometimes come across as a lack of focus, it is this adaptability and openness to new experiences that make [THEM] a dynamic and resourceful individual. [THEY] thrive in roles that require creativity, teamwork, and a forward-thinking mindset. [THEIR] positive energy and dedication to making a difference often lead to inspiring and meaningful outcomes."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is a beacon of creativity and positivity, always looking for new ways to express [THEMSELVES] and to encourage others to do the same. [THEY] has a unique ability to blend imagination with empathy, creating an environment where ideas and people flourish.",
+                "body": "In [THEIR] professional life, [NAME] is known for [THEIR] innovative thinking and ability to motivate others. [THEY] approach challenges with a can-do attitude, seeing them as opportunities for growth and learning. [THEY] is highly perceptive and able to read between the lines, which helps [THEM] in understanding complex situations and finding solutions that benefit everyone involved. [THEY] has a gift for communication, often using [THEIR] storytelling skills to captivate and persuade an audience.",
+                "conclusion": "While [NAME]'s enthusiasm and spontaneity might sometimes lead to a lack of planning, these qualities also make [THEM] exceptionally adaptable and resilient. [THEY] excel in roles that value innovation, interpersonal connections, and the ability to inspire and lead change. [THEIR] passion and energy not only drive [THEM] towards achieving [THEIR] goals but also inspire and uplift those around [THEM]."
+            }
+        }
+    },
+    "KGBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the epitome of reliability and dedication, exemplifying a methodical and structured approach in both their professional and personal life. [THEY] thrive in environments where [THEY] can apply [THEIR] strong organizational skills and attention to detail.",
+                "body": "[NAME] excels at tasks that require precision and thoroughness, demonstrating a consistent and dependable work ethic. [THEY] prefer to work with facts and concrete information, approaching problems in a logical and systematic manner. [THEIR] practical mindset and ability to stay focused on the task at hand make [THEM] an invaluable asset in any team. [THEY] value tradition and proven methods, often serving as the stabilizing force in projects and initiatives. [THEY] is also excellent at managing time and resources, ensuring that goals are met efficiently and effectively.",
+                "conclusion": "While [NAME]'s preference for routine and structure can sometimes be perceived as inflexibility, it is this very consistency and reliability that makes [THEM] a trusted and respected member of any group. [THEY] excel in roles that require meticulous planning, organization, and a methodical approach. [THEIR] dedication to quality and accuracy often leads to high standards of performance in [THEIR] professional endeavors."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] exemplifies the qualities of thoroughness and responsibility, consistently applying a methodical and analytical approach to their work. [THEY] is highly dependable, often the go-to person when a task requires precision and attention to detail.",
+                "body": "[NAME]'s ability to focus and work systematically allows [THEM] to handle complex tasks with efficiency and accuracy. [THEY] rely on factual information and proven methods, preferring well-established procedures over untested ideas. In team settings, [THEY] is often the backbone of the operation, ensuring that all aspects of a project are executed correctly and on time. [THEY] has a strong sense of duty and take [THEIR] commitments seriously, making [THEM] a reliable and trustworthy team member.",
+                "conclusion": "While [NAME]'s preference for traditional approaches and [THEIR] aversion to risk can sometimes limit flexibility, it is [THEIR] steadfastness and dedication to quality that contribute to [THEIR] success. [THEY] thrive in roles that require meticulous organization, thorough analysis, and a structured approach. [THEIR] commitment to excellence and dependability not only ensures the success of [THEIR] own tasks but also brings stability and reliability to the entire team."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] brings a level of conscientiousness and precision to [THEIR] endeavors that is both admirable and effective. [THEY] approach tasks with a serious and pragmatic mindset, ensuring that every detail is accounted for.",
+                "body": "In [THEIR] professional life, [NAME] is a pillar of dependability, known for [THEIR] systematic and thorough approach. [THEY] value accuracy and order, often setting high standards for [THEMSELVES] and [THEIR] work. [THEY] excel in situations that require careful planning and adherence to processes, and [THEY] is capable of managing large amounts of information with ease. [THEY] is not one to shy away from challenging tasks, facing them head-on with a disciplined and steady hand.",
+                "conclusion": "Though [NAME]'s methodical nature can sometimes be seen as overly cautious, it is precisely this attention to detail and organization that makes [THEM] an exceptionally reliable and competent professional. [THEY] is well-suited for roles that demand thoroughness, consistency, and a methodical approach. [THEIR] unwavering commitment to doing things the right way often leads to high-quality outcomes and a strong sense of accomplishment."
+            }
+        }
+    },
+    "KGBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the epitome of practicality and efficiency, known for [THEIR] analytical approach to problem-solving. [THEY] excel in situations that require quick thinking and hands-on solutions. [THEIR] independent nature allows [THEM] to navigate challenges with a calm and pragmatic demeanor.",
+                "body": "[NAME] is highly skilled in understanding how things work, often delving into the mechanics of a task or project to find the most efficient way to tackle it. [THEY] prefer direct experience and learning by doing, which makes [THEM] extremely adept at handling practical tasks. [THEY] is able to remain focused and composed, even in high-pressure situations, and [THEIR] ability to adapt to new challenges on the fly is unmatched. [THEY] has a talent for troubleshooting and can often find innovative solutions to complex problems.",
+                "conclusion": "While [NAME]'s preference for independence and flexibility can sometimes be seen as a lack of long-term planning, it is this adaptability and resourcefulness that makes [THEM] an invaluable team member in dynamic environments. [THEY] thrive in roles that require technical skill, quick decision-making, and the ability to work autonomously. [THEIR] practical and straightforward approach often leads to effective and tangible results."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] possesses a unique blend of practicality and inventiveness, approaching both life and work with a hands-on and analytical mindset. [THEY] is at [THEIR] best when solving real-world problems with creative and efficient solutions.",
+                "body": "[NAME]'s ability to remain calm under pressure and think critically is one of [THEIR] most valuable assets. [THEY] is a natural troubleshooter, able to dissect complex issues and find effective solutions quickly. [THEY] value autonomy and often prefer to work independently, relying on [THEIR] skills and intuition to guide [THEM]. [THEY] is not just thinkers but also doers, often demonstrating a high level of competence in technical or mechanical fields.",
+                "conclusion": "Though [NAME] may sometimes seem reserved or detached, it is [THEIR] focus and determination that drive [THEIR] success. [THEY] excel in roles that require analytical thinking, hands-on problem solving, and the ability to adapt swiftly to new challenges. [THEIR] practical approach not only brings effective solutions but also contributes significantly to the functionality and efficiency of [THEIR] team or project."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME]'s pragmatic and down-to-earth nature is a cornerstone of [THEIR] personality, making [THEM] highly effective in situations that require logical and straightforward thinking. [THEY] has a knack for cutting through complexity to find the heart of the issue.",
+                "body": "In [THEIR] professional life, [NAME] is known for [THEIR] technical skills and ability to work well under pressure. [THEY] approach tasks with a logical and methodical mindset, ensuring that [THEY] deliver precise and accurate results. [THEY] is adaptable, able to quickly learn and apply new skills as needed. [THEY] also have a talent for improvisation, often coming up with innovative solutions on the spot. [THEY] prefer working in environments where [THEY] can have a degree of independence and make use of [THEIR] practical problem-solving skills.",
+                "conclusion": "While [NAME]'s independent and sometimes unconventional approach can be perceived as aloof, it is this very independence that allows [THEM] to think and act efficiently. [THEY] excel in roles that require technical expertise, quick thinking, and a hands-on approach. [THEIR] ability to approach challenges pragmatically often leads to effective and impactful outcomes."
+            }
+        }
+    },
+    "KGER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] embodies the qualities of dependability and attentiveness, often going above and beyond to support and care for those around [THEM]. [THEY] excel in environments where [THEY] can provide practical help and emotional support.",
+                "body": "[NAME] is highly detail-oriented, making sure that every aspect of a task or project is handled with care and precision. [THEY] is deeply committed to [THEIR] responsibilities, often putting the needs of others before [THEIR] own. [THEY] has a strong sense of duty and take great pride in maintaining high standards in [THEIR] work. [THEIR] empathetic nature allows [THEM] to connect with others on a personal level, making [THEM] an invaluable team member in collaborative settings. [THEY] is also excellent at managing tasks and organizing resources, ensuring that everything runs smoothly and efficiently.",
+                "conclusion": "While [NAME]'s reserved nature and tendency to avoid the spotlight can sometimes lead to [THEM] being overlooked, it is [THEIR] quiet dedication and reliability that make [THEM] a cornerstone in any team or community. [THEY] thrive in roles that require meticulous attention to detail, a caring approach, and the ability to create a harmonious and organized environment. [THEIR] contributions, often made behind the scenes, are essential to the success and well-being of those [THEY] work with."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a true embodiment of consistency and care, bringing a level of thoroughness and empathy to their work that is both rare and invaluable. [THEY] thrive in roles that allow [THEM] to support and assist others, often going the extra mile to ensure that everyone's needs are met.",
+                "body": "[NAME] approaches tasks with a meticulous eye for detail and a deep sense of responsibility. [THEY] is reliable and persistent, often serving as the steady force in a team, ensuring that projects are not just completed, but done so with great care and accuracy. [THEY] has a strong capacity for listening and understanding, making [THEM] an excellent collaborator who values harmony and team cohesion. [THEIR] organizational skills are top-notch, and [THEY] can manage multiple tasks efficiently, always prioritizing the well-being of others in [THEIR] decisions.",
+                "conclusion": "Although [NAME] may sometimes underplay [THEIR] own achievements in favor of supporting others, it is this selflessness and dedication that make [THEM] an integral member of any group. [THEY] excel in environments that value nurturing care, attention to detail, and a supportive approach. [THEIR] contributions, often subtle but crucial, significantly enhance the effectiveness and harmony of the teams and communities [THEY] is part of."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME]'s nurturing and detail-oriented nature shines through in all of [THEIR] endeavors. [THEY] has a unique ability to blend practical support with emotional understanding, creating a sense of comfort and reliability wherever [THEY] go.",
+                "body": "At work, [NAME] is known for [THEIR] exceptional ability to handle tasks with thoroughness and precision. [THEY] is a conscientious worker, taking [THEIR] responsibilities seriously and always striving to meet the highest standards. [THEY] is quietly supportive, often the unsung hero who ensures that everything runs smoothly. [THEY] is particularly skilled at remembering specifics and nuances that others may overlook, which allows [THEM] to provide tailored and effective support. [THEIR] empathetic and considerate nature makes [THEM] a valued confidant and advisor to [THEIR] colleagues.",
+                "conclusion": "While [NAME]'s tendency to be modest about [THEIR] own contributions can sometimes mean [THEY] don't seek the limelight, [THEIR] steadfast presence and reliability are fundamental to [THEIR] team's success. [THEY] is well-suited to roles that require diligent care, a supportive attitude, and the ability to bring order and structure to complex situations. [THEIR] dedication to supporting and improving the lives of those around [THEM] has a lasting and meaningful impact."
+            }
+        }
+    },
+    "KGEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] embodies a unique blend of artistic creativity and practical sensibility. [THEY] has a keen eye for aesthetics and enjoy expressing [THEMSELVES] through various forms of artistic endeavor. [THEY] is most fulfilled in environments where [THEY] can work independently and at [THEIR] own pace.",
+                "body": "[NAME] is deeply in tune with [THEIR] surroundings and often draws inspiration from the world around [THEM]. [THEY] has a natural talent for noticing subtle details and nuances, which [THEY] incorporate into [THEIR] creative work. While [THEY] value personal freedom and flexibility, [THEY] is also practical and down-to-earth, ensuring that [THEIR] ideas can be translated into tangible outputs. [THEY] is empathetic and compassionate, often using [THEIR] artistic talents to convey deeper emotions and perspectives.",
+                "conclusion": "Although [NAME]'s reserved and introspective nature can sometimes make [THEM] seem elusive, it is this introspection that fuels [THEIR] creativity and depth. [THEY] excel in roles that allow for artistic expression and personal autonomy, bringing a unique and thoughtful perspective to everything [THEY] do. [THEIR] ability to blend creativity with practical skills results in meaningful and impactful contributions, both in [THEIR] work and personal life."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME]'s artistic and gentle nature is evident in all aspects of [THEIR] life. [THEY] approach the world with a unique perspective, finding beauty in the details that others might overlook. [THEY] thrive in environments that allow [THEM] the freedom to explore and express [THEIR] creativity.",
+                "body": "[NAME] is deeply intuitive and often guided by [THEIR] values and beliefs, which [THEY] express through [THEIR] artistic pursuits. [THEY] has a strong sense of aesthetics and are adept at creating work that resonates on an emotional level. [THEY] prefer to work in a spontaneous and flexible manner, allowing [THEIR] natural talents to guide [THEIR] process. Despite [THEIR] quiet demeanor, [THEY] is deeply passionate about [THEIR] interests and can become intensely focused on [THEIR] projects. [THEY] is also compassionate and empathetic, often using [THEIR] art to connect with and understand others.",
+                "conclusion": "While [NAME] may sometimes seem reserved or shy, it is [THEIR] reflective and thoughtful nature that makes [THEIR] contributions so powerful. [THEY] excel in roles that require artistic expression, individuality, and a personal touch. [THEIR] ability to see the world in a different light and to create beauty from [THEIR] observations is not only inspiring but also brings a unique and valuable perspective to any endeavor."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] combines a free-spirited artistic talent with a practical, grounded approach to life. [THEY] is at [THEIR] best when [THEY] can use [THEIR] creativity to explore and express [THEMSELVES], while also making a tangible impact.",
+                "body": "[NAME] is skilled at turning abstract ideas into concrete creations, often surprising others with the practicality of [THEIR] artistic vision. [THEY] has a keen appreciation for beauty in all its forms and seek to incorporate it into [THEIR] daily life and work. [THEY] is adaptable and can work well independently, preferring environments that do not constrain [THEIR] creative impulses. [THEY] is also deeply empathetic, with a strong sense of compassion for others, which often informs [THEIR] artistic expression.",
+                "conclusion": "Though [NAME] may not always seek the spotlight, [THEIR] quiet dedication to [THEIR] art and [THEIR] ability to connect with others on a deep, emotional level make [THEM] a cherished colleague and friend. [THEY] excel in roles that allow for creative freedom and personal expression, where [THEY] can make meaningful contributions that reflect both [THEIR] artistic vision and [THEIR] practical abilities."
+            }
+        }
+    },
+    "KOBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] possesses a sharp and inquisitive mind, constantly seeking to understand the world around [THEM] in a deep and comprehensive way. [THEY] excel in environments where [THEY] can use [THEIR] analytical skills to develop strategies and solve complex problems.",
+                "body": "[NAME] approaches challenges with a logical and methodical mindset, often seeing patterns and solutions that others may miss. [THEY] has a natural ability to think several steps ahead, making [THEM] an excellent planner and strategist. [THEY] value knowledge and competence, often dedicating [THEMSELVES] to continuous learning and self-improvement. [THEY] is highly independent, preferring to work autonomously on tasks that require deep thought and concentration. [THEY] is not swayed by emotions or external pressures, making decisions based on logic and a clear understanding of the situation.",
+                "conclusion": "While [NAME]'s reserved and introspective nature might sometimes be perceived as aloof, it is [THEIR] focus and depth of thought that make [THEM] a powerful thinker and innovator. [THEY] excel in roles that require strategic planning, critical thinking, and a forward-looking vision. [THEIR] ability to identify and implement efficient and effective solutions often leads to significant advancements in [THEIR] field of work."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a strategic thinker with an innate ability to analyze and synthesize complex information. [THEY] approach tasks and challenges with a logical, systematic mindset, always looking for the most efficient and effective solutions.",
+                "body": "[NAME]'s intellectual curiosity drives [THEM] to delve deeply into subjects, seeking to understand the underlying principles and structures. [THEY] is excellent at identifying patterns and potential pitfalls, making [THEM] adept at strategic planning and forecasting. [THEY] prefer working independently and are highly self-motivated, often taking on challenging projects that require innovative thinking. [THEY] is not afraid to challenge the status quo, bringing a fresh perspective to traditional methods and ideas.",
+                "conclusion": "Although [NAME] may sometimes appear reserved or detached, it is [THEIR] focus and intensity of thought that enable [THEM] to develop insights and strategies that others might overlook. [THEY] thrive in roles that require critical thinking, long-term planning, and the autonomy to implement [THEIR] ideas. [THEIR] vision and analytical skills often lead to significant breakthroughs and advancements in [THEIR] field."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] stands out for [THEIR] exceptional ability to think critically and approach problems with a strategic and innovative mindset. [THEY] has a natural inclination for understanding complex systems and devising effective solutions.",
+                "body": "In [THEIR] professional life, [NAME] is known for [THEIR] thoroughness and attention to detail. [THEY] is a methodical thinker, able to dissect and analyze information to uncover underlying principles and strategies. [THEY] value efficiency and are always seeking ways to optimize processes and outcomes. [THEY] is self-reliant and confident in [THEIR] abilities, often taking the lead on projects that require deep thought and careful planning. [THEY] communicate [THEIR] ideas with clarity and precision, making [THEM] an effective leader and advisor.",
+                "conclusion": "While [NAME]'s preference for independence and [THEIR] critical nature can sometimes be challenging in collaborative settings, these qualities also make [THEM] an invaluable asset in situations that require thoughtful analysis and innovative thinking. [THEY] excel in roles that demand strategic insight, thoroughness, and a visionary approach, contributing significantly to the advancement of [THEIR] projects and goals."
+            }
+        }
+    },
+    "KOBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a quintessential thinker, characterized by [THEIR] deep intellectual curiosity and a constant desire to understand the complexities of the world. [THEY] excel in environments that allow [THEM] the freedom to explore ideas and theories.",
+                "body": "[NAME] has an exceptional ability to analyze and dissect complex problems, often approaching them from unique and unconventional angles. [THEY] is driven by a thirst for knowledge and an unending quest to understand underlying principles and concepts. [THEY] is highly independent and prefer to work in settings where [THEY] can ponder and research without undue interference. [THEY] is adept at spotting patterns and inconsistencies, making [THEM] a valuable asset in any analytical or research-oriented endeavor. [THEY] communicate [THEIR] ideas with clarity and precision, often bringing fresh insights into discussions.",
+                "conclusion": "While [NAME]'s preference for solitude and deep thought can sometimes make [THEM] seem detached, it is this introspective nature that fuels [THEIR] innovative thinking. [THEY] thrive in roles that require critical analysis, creative problem-solving, and the ability to work independently. [THEIR] intellectual contributions often lead to groundbreaking ideas and advancements in [THEIR] field of interest."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is known for [THEIR] intellectual depth and innovative thinking. [THEY] possesses a natural ability to delve into complex problems, seeking to uncover the fundamental truths and principles that lie beneath the surface.",
+                "body": "[NAME]'s analytical skills are unparalleled, allowing [THEM] to break down intricate concepts into more understandable parts. [THEY] thrive on intellectual challenges and are constantly seeking new knowledge and perspectives. [THEY] prefer working in an environment where [THEY] can independently explore ideas and theories, often leading to insightful and unconventional conclusions. [THEY] is not just thinkers but also creators, using [THEIR] intellect to develop new theories, models, or systems. [THEY] communicate in a precise and structured manner, often shedding light on topics that others may find too complex or abstract.",
+                "conclusion": "While [NAME]'s preference for deep thought and independence can sometimes lead to a sense of detachment, it is precisely these qualities that enable [THEM] to make significant intellectual contributions. [THEY] excel in roles that require innovative thinking, analytical problem-solving, and a long-term strategic approach. [THEIR] pursuit of knowledge and understanding often leads to significant breakthroughs in [THEIR] chosen field."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] stands out for [THEIR] exceptional ability to think abstractly and approach problems with a fresh and unconventional perspective. [THEY] is constantly in pursuit of deeper understanding and thrive in situations that challenge [THEIR] intellect.",
+                "body": "In [THEIR] professional life, [NAME] is often the one to question assumptions and propose innovative solutions. [THEY] has an innate talent for spotting trends and patterns that others might miss. [THEY] is motivated by a desire to gain knowledge and are often engaged in self-directed learning. [THEY] enjoy working independently and value environments where [THEY] can explore [THEIR] ideas without constraints. [THEY] is articulate and precise in [THEIR] communication, often helping to clarify complex topics for others.",
+                "conclusion": "Though [NAME] may sometimes seem introspective and reserved, it is this reflective nature that fosters [THEIR] deep and original thinking. [THEY] excel in roles that demand intellectual creativity, analytical rigor, and an innovative approach to problem-solving. [THEIR] contributions are often of a nature that pushes the boundaries of current understanding, leading to new insights and advancements."
+            }
+        }
+    },
+    "KOER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] possesses a rare combination of empathy and idealism, often driven by a deep desire to make the world a better place. [THEY] excel in environments where [THEY] can use [THEIR] intuitive understanding of people and situations to effect positive change.",
+                "body": "[NAME] has a unique ability to see beyond the surface, understanding the deeper meaning and connections in [THEIR] surroundings. [THEY] is highly empathetic, often able to sense the emotions and needs of others, which makes [THEM] an excellent communicator and advisor. [THEY] is driven by strong personal values and are often involved in causes that are important to [THEM]. [THEY] has a creative and visionary mind, capable of coming up with innovative solutions to complex problems. [THEY] is not afraid to advocate for what [THEY] believe in, often inspiring others with [THEIR] passion and determination.",
+                "conclusion": "While [NAME]'s sensitivity and idealism can sometimes lead to [THEM] feeling misunderstood or overwhelmed, it is these very qualities that make [THEM] a powerful force for change. [THEY] thrive in roles that require compassion, creativity, and a deep understanding of human dynamics. [THEIR] ability to envision a better future and [THEIR] commitment to making it a reality often lead to meaningful and lasting impacts in [THEIR] work and communities."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a compassionate and intuitive individual, often driven by a deep sense of purpose and a desire to contribute positively to the world. [THEY] has a natural ability to understand and empathize with others, making [THEM] a trusted confidant and advisor.",
+                "body": "[NAME] approaches life with a thoughtful and reflective mindset. [THEY] is highly attuned to the emotions and motivations of others, which allows [THEM] to navigate complex interpersonal dynamics skillfully. [THEY] possesses a strong inner vision and often think about the future, considering how [THEY] can work towards creating a better world. [THEY] is creative and insightful, often finding unique solutions to problems that others might not see. [THEY] value authenticity and integrity, striving to live in alignment with [THEIR] deeply held values.",
+                "conclusion": "Although [NAME]'s sensitivity and idealistic nature can sometimes leave [THEM] feeling vulnerable in a harsh world, these qualities also make [THEM] a powerful agent for change. [THEY] thrive in roles that allow [THEM] to nurture and develop others, bring about social change, or engage in creative endeavors. [THEIR] profound empathy and visionary thinking often result in [THEM] making a deep and lasting impact in the areas [THEY] is passionate about."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] combines a visionary outlook with a deep empathy for others, often feeling compelled to initiate or support change that aligns with [THEIR] values. [THEY] has a unique talent for seeing the bigger picture and understanding how different elements interconnect.",
+                "body": "In [THEIR] professional life, [NAME] is known for [THEIR] strong moral compass and a commitment to principles that [THEY] believe in. [THEY] has an intuitive understanding of people and situations, which [THEY] use to navigate and resolve complex challenges. [THEY] is creative and often think outside the box, bringing fresh and innovative perspectives to [THEIR] work. [THEY] is articulate and expressive, able to communicate [THEIR] ideas and insights in a way that resonates deeply with others. [THEY] is often drawn to roles that involve counseling, advocacy, or creative expression, where [THEY] can use [THEIR] insights to make a difference.",
+                "conclusion": "While [NAME]'s tendency to focus on the ideal can sometimes lead to frustration with the realities of the world, it is this visionary quality that makes [THEM] a source of inspiration and change. [THEY] is most fulfilled in roles that align with [THEIR] values and allow [THEM] to work towards creating a more understanding and compassionate world. [THEIR] influence often extends beyond the immediate task at hand, inspiring others to think more deeply about their own values and actions."
+            }
+        }
+    },
+    "KOEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] possesses a rich inner world, brimming with imagination and creativity. [THEY] is deeply empathetic and often feel a strong connection to the emotions and experiences of others. [THEY] excel in environments where [THEY] can express [THEMSELVES] and explore [THEIR] ideals.",
+                "body": "[NAME] approaches life with a sense of idealism and a desire to find and create meaning. [THEY] is highly intuitive, often able to see possibilities and perspectives that others may overlook. [THEY] has a strong sense of personal values and strive to live in alignment with these beliefs. [THEY] is often drawn to artistic or humanitarian pursuits where [THEY] can express [THEIR] inner thoughts and feelings. [THEY] is also skilled at conveying complex emotions and concepts through [THEIR] creative endeavors, whether in writing, art, or other forms of expression.",
+                "conclusion": "While [NAME]'s sensitivity and idealism can sometimes lead to feelings of being misunderstood or out of place, it is these very qualities that make [THEIR] insights and contributions unique and valuable. [THEY] thrive in roles that require empathy, creativity, and a deep understanding of human nature. [THEIR] ability to think deeply and empathize profoundly often results in significant and meaningful impacts in [THEIR] personal and professional life."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a deep thinker and a dreamer, with a profound sense of empathy and a rich imagination. [THEY] approach the world with curiosity and a desire to understand the deeper meanings behind everything [THEY] encounter.",
+                "body": "[NAME] possesses a rare ability to see the world through a compassionate and creative lens. [THEY] is often introspective, reflecting on a wide array of ideas and possibilities. [THEIR] empathetic nature allows [THEM] to connect with others on a deep emotional level, making [THEM] an excellent listener and confidant. [THEY] is often drawn to artistic expression, finding solace and joy in translating [THEIR] inner thoughts and feelings into various forms of art. [THEY] value authenticity and are always seeking ways to align [THEIR] actions with [THEIR] personal values and beliefs.",
+                "conclusion": "Although [NAME]'s sensitivity and idealistic outlook can sometimes leave [THEM] feeling vulnerable, these qualities are the source of [THEIR] creativity and compassion. [THEY] thrive in environments that appreciate and nurture [THEIR] unique perspective and deep understanding of the human experience. [THEIR] contributions, often subtle but impactful, resonate deeply with those who experience them."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] combines a vivid imagination with a deep sense of empathy, often finding [THEMSELVES] exploring the emotional and philosophical dimensions of life. [THEY] is driven by a strong set of personal values and a desire to make a meaningful impact.",
+                "body": "In [THEIR] professional and personal life, [NAME] is known for [THEIR] ability to think outside the box and approach challenges from a unique perspective. [THEY] has a natural talent for understanding and relating to the feelings and perspectives of others, making [THEM] an effective communicator and collaborator. [THEY] is passionate about causes that matter to [THEM], often advocating for change and justice. [THEY] find joy and purpose in creative pursuits, whether it's writing, art, music, or any other form of self-expression that allows [THEM] to share [THEIR] inner world with others.",
+                "conclusion": "While [NAME] may sometimes feel overwhelmed by the complexities and injustices of the world, it is [THEIR] deep sense of compassion and idealism that inspires [THEM] to make a difference. [THEY] is most fulfilled in roles that allow [THEM] to express [THEIR] creativity, connect with others on a meaningful level, and work towards creating a more empathetic and understanding world."
+            }
+        }
+    }
+}

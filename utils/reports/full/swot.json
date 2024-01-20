@@ -1,0 +1,466 @@
+{
+    "PGBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] exudes a sense of authority and confidence, often taking the lead in group settings. [THEIR] approach is pragmatic and rooted in a strong sense of reality. [THEY] prefer structured environments and are excellent at organizing tasks and people.",
+                "strengths_weaknesses": "[NAME] possesses a clear vision and exceptional organizational skills, making [THEM] efficient and dependable. However, [THEY] can sometimes be perceived as too rigid or inflexible, especially when [THEY] strongly believe in [THEIR] method. [THEIR] high standards can lead to being overly critical of both [THEMSELVES] and others.",
+                "social_economic_aspect": "[NAME] has a keen eye for detail and a practical approach to problem-solving. This makes [THEM] adept at managing resources and recognizing opportunities in the business world. [THEY] value efficiency and productivity, often finding innovative solutions to complex problems.",
+                "relationships": "In relationships, [NAME] is loyal and values stability and security. [THEY] take [THEIR] commitments seriously but can sometimes struggle with emotional expression. [THEY] appreciate direct communication and are straightforward in [THEIR] interactions. [NAME] believes in the importance of tradition and often upholds societal norms.",
+                "social_life": "[NAME] is assertive and straightforward, which helps [THEM] in professional settings. [THEY] is respected for [THEIR] honesty and integrity. However, [THEY] may need to work on being more adaptable and open to different viewpoints. [THEY] strive for excellence and expect the same from others, which can be both a strength and a challenge in teamwork."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] commands respect through [THEIR] natural leadership qualities and decisive nature. [THEY] is seen as a pillar of strength in [THEIR] community, consistently demonstrating a reliable and practical approach to life.",
+                "strengths_weaknesses": "[NAME]'s greatest strengths lie in [THEIR] exceptional organizational skills and unwavering dedication to [THEIR] goals. [THEY] can, however, come across as overly assertive or uncompromising, especially when [THEY] is passionate about [THEIR] ideas.",
+                "social_economic_aspect": "With a sharp eye for efficiency and a no-nonsense approach, [NAME] excels in environments that demand order and discipline. [THEY] is adept at financial planning, often making decisions that are both economically sound and beneficial in the long term.",
+                "relationships": "[NAME] values traditional relationships and tends to be straightforward and honest in [THEIR] dealings with others. While [THEY] can sometimes struggle with emotional nuances, [THEY] is deeply committed and loyal to [THEIR] loved ones.",
+                "social_life": "In social circles, [NAME] is known for [THEIR] clear communication and ability to take charge. [THEY] can be rigid in [THEIR] opinions, which may lead to conflicts, but [THEIR] dependability and strong sense of duty are highly valued."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] embodies a blend of practicality and authoritative presence, often leading by example. [THEY] thrive in structured settings where [THEIR] leadership skills can be put to good use.",
+                "strengths_weaknesses": "One of [NAME]'s key strengths is [THEIR] ability to implement and follow through on plans with precision. However, [THEIR] inclination to control situations can sometimes be perceived as domineering or inflexible.",
+                "social_economic_aspect": "[NAME] demonstrates an innate understanding of business and operational management, making [THEM] a valuable asset in any professional venture. [THEY] is particularly skilled at navigating complex organizational structures.",
+                "relationships": "In [THEIR] personal relationships, [NAME] shows a preference for stability and predictability. [THEY] may not always be the most expressive emotionally, but [THEIR] loyalty and sense of responsibility speak volumes about [THEIR] commitment.",
+                "social_life": "[NAME] is often seen as the backbone of [THEIR] social groups, offering guidance and structure. While [THEY] can sometimes struggle with adaptability, [THEIR] honesty and directness are qualities that many admire and respect."
+            }
+        }
+    },
+    "PGBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the epitome of charisma and action, always ready for a new adventure. [THEY] possess an infectious energy and a quick wit, making [THEM] a dynamic and engaging presence in any situation.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] adaptability and ability to think on [THEIR] feet. [THEY] is resourceful and excel in crisis situations. However, [THEIR] impulsiveness and risk-taking behavior can sometimes lead to challenges, especially in environments that require long-term planning and consistency.",
+                "social_economic_aspect": "[NAME] has a sharp, analytical mind and is skilled at spotting opportunities that others might miss. [THEY] is particularly adept in roles that require negotiation and quick decision-making. [THEY] tend to be pragmatic and focused on immediate results rather than long-term strategies.",
+                "relationships": "[NAME] is straightforward and honest in [THEIR] relationships, often bringing excitement and spontaneity to [THEIR] interactions with others. While [THEY] is loyal to [THEIR] friends, [THEY] may struggle with emotional depth and consistency in [THEIR] relationships.",
+                "social_life": "[NAME] thrives in social environments, often taking the lead in activities and enjoying the spotlight. [THEY] is persuasive and often the life of the party, but [THEY] need to be mindful of [THEIR] tendency to overlook the feelings of others in pursuit of [THEIR] own interests."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a bundle of energy and practicality, always looking for the next challenge or excitement. [THEY] is bold and assertive, often taking charge in situations that require quick thinking and direct action.",
+                "strengths_weaknesses": "[NAME]'s ability to remain unflappable in stressful situations is a key strength. [THEY] is adept at solving problems in real-time. However, [THEIR] preference for immediate gratification can sometimes lead to a lack of long-term planning and impulsive decisions.",
+                "social_economic_aspect": "[NAME] is naturally entrepreneurial, spotting opportunities and taking risks that others may shy away from. [THEY] excel in environments that are dynamic and fast-paced, where [THEY] can utilize [THEIR] keen observational skills and tactical thinking.",
+                "relationships": "[NAME] is fun-loving and enthusiastic in [THEIR] relationships, often the one to initiate activities and adventures. While [THEY] is genuinely caring, [THEY] might struggle with maintaining deep emotional connections, tending to focus more on the present moment.",
+                "social_life": "[NAME] is usually the center of attention in social gatherings, known for [THEIR] charm and ability to engage with a wide range of people. [THEY] is confident and persuasive but may need to be cautious of [THEIR] tendency to dominate conversations or overlook the quieter voices in a group."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is a dynamic and action-oriented individual, always on the move and looking for new experiences. [THEY] has a magnetic personality that draws people towards [THEM], making [THEM] a natural leader in group settings.",
+                "strengths_weaknesses": "[NAME] excels in situations that require quick, tactical thinking and a hands-on approach. [THEY] is incredibly adaptable and resourceful. However, [THEIR] impatience with routine and detail can sometimes result in overlooking important nuances or rushing through tasks.",
+                "social_economic_aspect": "[NAME] thrives in careers that involve risk and variety, such as entrepreneurship or sales. [THEY] has a knack for understanding market trends and capitalizing on them. [THEY] is driven by results and are often very persuasive and influential.",
+                "relationships": "[NAME] is straightforward and honest in [THEIR] interactions, bringing an element of excitement and spontaneity to [THEIR] relationships. [THEY] can, however, struggle with long-term commitments or deeper emotional discussions, preferring action over contemplation.",
+                "social_life": "[NAME] is often the life and soul of social events, comfortable in the spotlight and quick to make friends. [THEY] is enthusiastic and outgoing, though [THEY] might sometimes inadvertently overlook the subtler aspects of social dynamics due to [THEIR] direct and action-oriented nature."
+            }
+        }
+    },
+    "PGER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] embodies a nurturing and caring presence, always looking out for the well-being of others. [THEY] is highly sociable and enjoy creating harmony in their surroundings, often taking on the role of a mediator in conflicts.",
+                "strengths_weaknesses": "[NAME]'s strengths lie in [THEIR] strong sense of duty and reliability. [THEY] is exceptionally organized and attentive to the needs of others. However, [THEY] can sometimes be overly sensitive to criticism and may struggle with change, preferring stability and routine.",
+                "social_economic_aspect": "With a natural inclination towards helping others, [NAME] excels in roles that involve caregiving or service. [THEY] has a keen sense of social etiquette and are adept at maintaining both personal and professional relationships.",
+                "relationships": "[NAME] values deep and meaningful relationships, often going out of [THEIR] way to ensure the happiness of [THEIR] loved ones. [THEY] is compassionate and empathetic, but [THEY] need to be careful not to neglect [THEIR] own needs in the process of caring for others.",
+                "social_life": "[NAME] thrives in social situations, often being the glue that holds a group together. [THEY] is good at reading the room and ensuring that everyone feels included and valued. However, [THEY] may find it challenging when confronted with unfamiliar social dynamics or when [THEIR] efforts are not reciprocated."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] shines as a supportive and sociable individual, always eager to help and make others feel comfortable. [THEY] possesses a natural warmth and are often the first to lend a hand in times of need.",
+                "strengths_weaknesses": "[NAME]'s empathetic nature and strong communication skills are [THEIR] greatest assets. [THEY] excel in roles that require care and attention to others' needs. However, [THEY] may sometimes take on too much responsibility for others' well-being, and [THEIR] aversion to conflict can lead to challenges in addressing issues directly.",
+                "social_economic_aspect": "[NAME] has a talent for coordinating and managing group activities, making [THEM] an asset in community and work settings. [THEY] is keenly aware of social hierarchies and norms, which helps [THEM] navigate complex social networks effectively.",
+                "relationships": "In relationships, [NAME] is nurturing and considerate, always striving to maintain harmony and understanding. [THEY] value stability and security, but [THEY] might struggle with change or when [THEIR] efforts aren't acknowledged as [THEY] expect.",
+                "social_life": "[NAME] is often seen as the cornerstone of [THEIR] social group, bringing people together and fostering a sense of community. [THEY] is adept at mediating conflicts, although [THEY] might sometimes compromise [THEIR] own needs for the sake of others."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] exudes a caring and dependable energy, consistently striving to support and uplift those around [THEM]. [THEY] has a strong sense of community and work tirelessly to maintain positive relationships.",
+                "strengths_weaknesses": "[NAME] excels in organization and attention to detail, especially in social contexts. [THEY] is great at mobilizing people and resources for a common cause. On the flip side, [THEY] can be overly sensitive to criticism and may avoid necessary confrontations, prioritizing harmony over difficult truths.",
+                "social_economic_aspect": "[NAME] has a strong understanding of societal norms and expectations, which makes [THEM] skilled in roles that involve public relations, hospitality, or community service. [THEY] is adept at creating and maintaining a pleasant and efficient environment.",
+                "relationships": "[NAME] places a high value on close, personal relationships and is dedicated to taking care of [THEIR] loved ones. [THEY] has a strong desire for mutual appreciation and can be deeply affected by any form of neglect or underappreciation.",
+                "social_life": "In [THEIR] social circle, [NAME] is often the organizer and the nurturer, always ensuring that everyone is included and happy. [THEY] has a strong need for social approval and can be upset by any form of social discord or disagreement."
+            }
+        }
+    },
+    "PGEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] radiates a contagious energy and enthusiasm, captivating those around [THEM] with [THEIR] vibrant personality. [THEY] thrive in dynamic environments and love being the center of attention.",
+                "strengths_weaknesses": "[NAME] is known for [THEIR] adaptability and spontaneity, always ready to explore new experiences. [THEIR] penchant for adventure can sometimes lead to impulsiveness, and [THEY] may struggle with long-term planning and commitments.",
+                "social_economic_aspect": "With a natural flair for aesthetics and a keen eye for trends, [NAME] excels in fields that require creativity and a personal touch. [THEY] has an intuitive understanding of social dynamics, which helps [THEM] in networking and building beneficial relationships.",
+                "relationships": "[NAME]'s warm and empathetic nature makes [THEM] a cherished friend and companion. [THEY] value meaningful connections, although [THEY] might find it challenging to delve into deeper emotional conversations or confrontations.",
+                "social_life": "In social settings, [NAME] is the life of the party, often using [THEIR] charm and wit to lighten the mood. [THEY] is approachable and friendly, but [THEY] need to be mindful of not overextending [THEMSELVES] in [THEIR] desire to please others."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a burst of energy and charm, effortlessly drawing people in with [THEIR] lively and outgoing nature. [THEY] love to explore and engage with the world around [THEM], finding joy in the simple pleasures of life.",
+                "strengths_weaknesses": "A key strength of [NAME] is [THEIR] ability to live in the moment and bring excitement to everyday situations. However, this spontaneity can sometimes lead to a lack of focus and difficulty with planning ahead. [THEY] may also avoid difficult conversations, preferring to keep things light and positive.",
+                "social_economic_aspect": "[NAME] has a natural talent for communicating with others and often excels in roles that require social interaction and persuasion. [THEY] is adept at reading people and situations, which serves [THEM] well in personal and professional environments.",
+                "relationships": "[NAME] is compassionate and genuinely cares about the well-being of others, making [THEM] a loyal and fun-loving friend. [THEY] is, however, sometimes prone to taking things personally and may need reassurance in [THEIR] relationships.",
+                "social_life": "In social gatherings, [NAME] is often the one who initiates activities and spreads positivity. [THEY] is adaptable and can fit into various groups with ease, but [THEY] might struggle with maintaining deep connections due to [THEIR] preference for breadth over depth."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] embodies the spirit of adventure and a love for the here and now. [THEIR] infectious enthusiasm and zest for life make [THEM] a delightful presence in any setting.",
+                "strengths_weaknesses": "[NAME] shines in [THEIR] ability to adapt quickly to new environments and make the most of the present moment. However, this may come at the cost of neglecting future planning and sometimes acting impulsively without considering long-term consequences.",
+                "social_economic_aspect": "With an innate understanding of social dynamics and a flair for the dramatic, [NAME] is well-suited to roles that involve public relations, entertainment, or sales. [THEY] is persuasive and can easily connect with a variety of people.",
+                "relationships": "Warm and affectionate, [NAME] values close personal relationships and is often seen as the person who lights up a room. While [THEY] is supportive and caring, [THEY] might sometimes overlook the deeper emotional needs of [THEMSELVES] and others.",
+                "social_life": "[NAME] is the quintessential social butterfly, easily making friends and enjoying the company of a diverse range of people. [THEY] is naturally inclined to seek out social interaction, but [THEY] may need to be cautious about spreading [THEMSELVES] too thin."
+            }
+        }
+    },
+    "POBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] exudes confidence and strategic thinking, naturally taking the lead in both professional and personal settings. [THEY] has a visionary approach and are always looking for ways to improve and innovate.",
+                "strengths_weaknesses": "[NAME]'s strengths lie in [THEIR] exceptional ability to organize, plan, and execute complex strategies. [THEY] is decisive and have a natural talent for leadership. However, [THEIR] assertive nature can sometimes come across as overly dominant, and [THEY] may struggle with being perceived as inflexible or impatient.",
+                "social_economic_aspect": "[NAME] excels in environments that require critical thinking and bold decision-making. [THEY] is skilled at identifying opportunities for growth and are not afraid to take calculated risks. [THEIR] strong focus on achieving objectives can make [THEM] an influential figure in business and entrepreneurship.",
+                "relationships": "[NAME] approaches relationships with the same level of intensity and dedication as [THEIR] professional endeavors. [THEY] value honesty and direct communication but might need to be more attuned to the emotional needs of others to foster deeper connections.",
+                "social_life": "[NAME] is often the driving force in social groups, leading discussions and planning activities. [THEY] thrive when engaging in intellectually stimulating conversations but may need to work on being more receptive to different viewpoints and less controlling in social interactions."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a natural-born leader, exuding authority and determination. [THEY] possesses a clear vision for the future and are adept at rallying others around their goals and ideas.",
+                "strengths_weaknesses": "[NAME]'s key strength is [THEIR] ability to analyze situations and devise effective solutions quickly. [THEY] is confident and articulate, capable of inspiring others. However, [THEY] can sometimes be overly assertive or dismissive of others' opinions, especially in high-pressure situations.",
+                "social_economic_aspect": "[NAME] thrives in competitive environments, where [THEIR] strategic thinking and problem-solving skills can be put to good use. [THEY] is goal-oriented and have a strong drive to succeed, which often leads [THEM] to excel in business and leadership roles.",
+                "relationships": "[NAME] values efficiency and directness in [THEIR] relationships. [THEY] is loyal and dependable but may need to be more mindful of [THEIR] partner's emotional needs and the importance of empathy in nurturing relationships.",
+                "social_life": "In social settings, [NAME] often takes the lead in organizing and directing activities. [THEY] enjoy intellectual debates and challenging conversations, although [THEY] might need to balance [THEIR] natural tendency to dominate discussions with active listening."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] stands out with [THEIR] commanding presence and strategic mindset. [THEY] is not only goal-oriented but also highly efficient in [THEIR] approach to challenges, both in [THEIR] career and personal life.",
+                "strengths_weaknesses": "[NAME] is excellent at setting goals and mobilizing resources to achieve them. [THEIR] decisiveness and strong leadership skills are commendable, but [THEY] may struggle with being overly critical or impatient with those who do not meet [THEIR] high standards.",
+                "social_economic_aspect": "[NAME] is particularly adept at navigating complex organizational structures and making strategic decisions. [THEY] has a talent for identifying potential in markets and people, making [THEM] a powerful player in the business world.",
+                "relationships": "[NAME] approaches relationships with a straightforward and honest attitude. While [THEY] is deeply committed, [THEY] can sometimes overlook the subtleties of emotional expression, which is crucial for deeper connections with others.",
+                "social_life": "[NAME] enjoys being in control of social situations and often leads group discussions and activities. [THEY] is intellectually stimulating and persuasive but may need to be more attentive to including and valuing diverse perspectives in conversations."
+            }
+        }
+    },
+    "POBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a quintessential innovator and debater, brimming with ideas and always ready to explore new concepts. [THEY] has a quick mind and a flair for seeing possibilities where others see obstacles.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] exceptional creativity and ability to think outside the box. [THEY] is articulate and enjoy engaging in intellectual discussions. However, [THEY] can sometimes be perceived as argumentative and may struggle with following through on [THEIR] ideas, preferring to move on to the next exciting challenge.",
+                "social_economic_aspect": "[NAME] excels in environments that value innovation and intellectual stimulation. [THEY] is adept at identifying trends and patterns, which makes [THEM] well-suited for entrepreneurial ventures or roles that require strategic thinking.",
+                "relationships": "[NAME] is enthusiastic and charming in [THEIR] relationships, often inspiring and energizing those around [THEM]. While [THEY] enjoy deep and stimulating conversations, [THEY] may need to work on being more present and consistent in [THEIR] personal connections.",
+                "social_life": "[NAME] thrives in dynamic social settings, where [THEY] can engage in spirited debates and share [THEIR] ideas. [THEY] is charismatic and often draw a crowd, but [THEY] might need to be cautious of dominating conversations or neglecting to listen to others' viewpoints."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] dazzles with [THEIR] intellectual curiosity and innovative thinking. [THEY] is always seeking to challenge the status quo and are not afraid to question established norms.",
+                "strengths_weaknesses": "[NAME]'s creative problem-solving skills and ability to quickly generate new ideas are among [THEIR] greatest strengths. [THEY] is persuasive and articulate. However, [THEY] can sometimes struggle with maintaining focus and may overlook practical details in pursuit of [THEIR] larger vision.",
+                "social_economic_aspect": "[NAME] is naturally entrepreneurial, often thriving in environments that require quick thinking and adaptability. [THEY] has a knack for spotting trends and exploiting them, which can be a significant asset in business and innovation fields.",
+                "relationships": "[NAME] brings a sense of excitement and novelty to [THEIR] relationships, often engaging [THEIR] friends and partners in thoughtful and stimulating conversations. [THEY] may, however, need to be more attentive to maintaining these relationships and being sensitive to others' emotional needs.",
+                "social_life": "[NAME] is an engaging and dynamic presence in social circles, often driving conversations and debates. [THEY] enjoy connecting with diverse groups of people but should be mindful of not overwhelming others with [THEIR] enthusiasm and strong opinions."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is an intellectual explorer, always on the lookout for new theories and concepts to dissect and discuss. [THEY] possesses a sharp wit and a natural ability to spot inconsistencies and flaws in arguments.",
+                "strengths_weaknesses": "[NAME]'s ability to quickly understand complex ideas and think critically is a key strength. [THEY] excel in environments that allow for intellectual freedom and creativity. On the downside, [THEY] might be perceived as argumentative or indifferent to more practical or routine matters.",
+                "social_economic_aspect": "[NAME] thrives in innovative and dynamic settings, especially those that allow [THEM] to challenge conventional thinking. [THEY] is adept at coming up with unique solutions to problems and can be an effective strategist in business or technology sectors.",
+                "relationships": "In [THEIR] personal life, [NAME] is often the spark that ignites lively discussions and thought-provoking debates. [THEY] value relationships that are intellectually stimulating but might need to focus more on the emotional aspects to build deeper connections.",
+                "social_life": "[NAME] is captivating and often the catalyst for engaging and insightful conversations in social gatherings. [THEY] can, however, sometimes come off as detached or overly analytical, which may create distance in [THEIR] personal interactions."
+            }
+        }
+    },
+    "POER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a natural leader, known for [THEIR] charisma and ability to inspire those around [THEM]. [THEY] possesses a unique blend of empathy and assertiveness, often advocating for positive change and encouraging others to reach their full potential.",
+                "strengths_weaknesses": "[NAME]'s key strengths include [THEIR] exceptional interpersonal skills and [THEIR] ability to deeply understand and motivate others. [THEY] is often seen as a mentor or guide. However, [THEY] can sometimes be overly idealistic or sensitive to criticism, which may lead to challenges in facing harsh realities.",
+                "social_economic_aspect": "[NAME] excels in roles that involve nurturing and developing others' talents and potentials, such as education, counseling, or leadership in social organizations. [THEY] has a strong sense of community and are driven by the desire to make a meaningful impact.",
+                "relationships": "[NAME] values deep, harmonious relationships and often goes out of [THEIR] way to ensure the well-being of [THEIR] loved ones. [THEY] is compassionate and supportive, but [THEY] might sometimes neglect [THEIR] own needs while focusing on those of others.",
+                "social_life": "[NAME] thrives in social environments, bringing people together and fostering a sense of belonging. [THEY] is adept at resolving conflicts and promoting understanding, though [THEY] might need to be cautious of becoming overinvolved in others' problems."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] shines as a compassionate and influential figure, effortlessly connecting with people and nurturing their growth. [THEY] has a profound ability to empathize and are often seen as a source of inspiration and support.",
+                "strengths_weaknesses": "[NAME] excels at understanding others' perspectives and feelings, making [THEM] an excellent communicator and mediator. [THEY] is, however, prone to taking on too much emotional burden and may struggle with setting boundaries, often putting others' needs before [THEIR] own.",
+                "social_economic_aspect": "[NAME] is naturally drawn to professions that involve helping and guiding others, such as teaching, counseling, or social work. [THEY] has a talent for creating harmonious environments and bringing out the best in people.",
+                "relationships": "[NAME] places a high value on close, personal relationships and is dedicated to nurturing these connections. [THEY] seek depth and meaning in relationships but need to ensure [THEY] don't lose sight of [THEIR] own needs and aspirations in the process.",
+                "social_life": "[NAME] is a unifying presence in social groups, often taking the lead in organizing and facilitating group activities. [THEY] is inclusive and make sure everyone feels heard, but [THEY] might occasionally overextend [THEMSELVES] in [THEIR] efforts to maintain harmony."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is an empathetic leader, driven by a strong desire to uplift and empower those around [THEM]. [THEY] has an innate ability to connect with others on a deep level, often acting as a catalyst for positive change.",
+                "strengths_weaknesses": "[NAME]'s ability to inspire and motivate is one of [THEIR] greatest strengths, along with [THEIR] excellent organizational skills. However, [THEY] can sometimes be overly optimistic or ignore practical limitations, and [THEY] might find it hard to deal with criticism or conflict.",
+                "social_economic_aspect": "[NAME] thrives in environments where [THEY] can lead and influence, particularly in fields that involve community engagement, advocacy, or team management. [THEY] is adept at building networks and fostering collaborative efforts.",
+                "relationships": "[NAME] deeply values emotional connections and strives to build strong, meaningful relationships. [THEY] is attentive and caring, but [THEY] need to be mindful of not becoming overly involved or trying to 'fix' others' problems.",
+                "social_life": "[NAME] is often at the heart of [THEIR] social circle, known for [THEIR] warmth and inclusivity. [THEY] excel in bringing people together and mediating conflicts, but [THEY] should be careful to balance [THEIR] involvement with maintaining [THEIR] own well-being."
+            }
+        }
+    },
+    "POEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a vibrant and creative soul, full of enthusiasm and new ideas. [THEY] has an infectious energy that draws others in and a natural ability to inspire and motivate those around [THEM].",
+                "strengths_weaknesses": "[NAME]'s strengths lie in [THEIR] exceptional creativity, open-mindedness, and ability to connect with others on a deep level. [THEY] is spontaneous and highly adaptable. However, [THEY] may struggle with focusing on mundane tasks and can sometimes be perceived as overly idealistic or scattered in [THEIR] approach.",
+                "social_economic_aspect": "[NAME] excels in environments that allow for creative expression and intellectual exploration. [THEY] is quick to identify potential in situations and people, making [THEM] well-suited for roles in innovation, counseling, or artistic fields.",
+                "relationships": "[NAME] seeks deep, meaningful connections and is often the driving force behind nurturing these relationships. [THEY] is empathetic and supportive, but [THEY] might need to work on setting boundaries to avoid overextending [THEMSELVES].",
+                "social_life": "[NAME] is the quintessential social butterfly, thriving in dynamic and diverse social settings. [THEY] enjoy meeting new people and engaging in meaningful conversations, though [THEY] may need to be mindful of not losing sight of [THEIR] own needs in [THEIR] quest to understand others."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] sparkles with a contagious enthusiasm and a boundless imagination, always eager to explore new possibilities and ideas. [THEY] is a natural at uplifting spirits and bringing a touch of optimism to any situation.",
+                "strengths_weaknesses": "[NAME]'s vibrant personality and innovative thinking are among [THEIR] greatest assets. [THEY] is adept at inspiring and bringing out the best in others. However, [THEY] might sometimes find it challenging to stick to routines or deal with highly structured environments.",
+                "social_economic_aspect": "[NAME] is drawn to roles that involve creativity, flexibility, and human interaction. [THEY] has an intuitive sense of social dynamics, which makes [THEM] effective in fields like marketing, public relations, or the arts.",
+                "relationships": "[NAME] cherishes deep and authentic connections and often goes the extra mile to make sure [THEIR] loved ones feel understood and appreciated. [THEY] is generous and caring but should remember to take time for [THEMSELVES] and not just others.",
+                "social_life": "[NAME] is often the heart and soul of social gatherings, effortlessly engaging with people and creating a welcoming atmosphere. [THEY] is adventurous and open to new experiences, though [THEY] may need to be aware of [THEIR] limits and not overcommit."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is a beacon of creativity and enthusiasm, always brimming with new ideas and a desire to explore the unknown. [THEY] has a natural talent for storytelling and captivating audiences with [THEIR] charm and wit.",
+                "strengths_weaknesses": "[NAME] excels in [THEIR] ability to think outside the box and connect with people on an emotional level. [THEY] is spontaneous and highly perceptive. On the flip side, [THEY] may struggle with attention to detail and can sometimes be inconsistent in following through with plans.",
+                "social_economic_aspect": "[NAME] thrives in environments that value innovation and personal expression. [THEY] is particularly skilled at identifying emerging trends and making meaningful connections, which is a boon in creative or entrepreneurial careers.",
+                "relationships": "[NAME] values emotional depth and authenticity in [THEIR] relationships. [THEY] is a devoted friend and partner, always ready to listen and empathize. However, [THEY] might need to work on balancing [THEIR] idealism with the practicalities of daily life.",
+                "social_life": "[NAME] has a magnetic presence in social circles, often leading conversations and inspiring others with [THEIR] energy and vision. [THEY] love to connect with diverse groups but should be careful not to spread [THEMSELVES] too thin."
+            }
+        }
+    },
+    "KGBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the embodiment of reliability and dedication. [THEY] approach life with a practical and methodical mindset, valuing tradition and order. [THEY] is often seen as the bedrock of [THEIR] community or organization.",
+                "strengths_weaknesses": "[NAME]'s greatest strengths include [THEIR] exceptional organizational skills, attention to detail, and a strong sense of duty. [THEY] is thorough and dependable in all [THEIR] endeavors. However, [THEY] may sometimes struggle with adaptability and can be resistant to change, preferring to stick to proven methods.",
+                "social_economic_aspect": "[NAME] excels in environments that require precision and structure. [THEY] has a natural aptitude for managing complex tasks and are often drawn to careers in administration, finance, or law, where [THEY] can put [THEIR] analytical skills to good use.",
+                "relationships": "[NAME] values stability and loyalty in [THEIR] relationships. [THEY] take commitments seriously and are trustworthy and straightforward. [THEY] might need to work on being more open to others' emotions and more flexible in interpersonal interactions.",
+                "social_life": "[NAME] is often the reliable and steady presence in a group, preferring low-key social gatherings to large, boisterous events. [THEY] appreciate deep, long-lasting connections, though [THEY] may need to be more receptive to new people and experiences."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a paragon of dependability and meticulousness. [THEY] approach tasks and challenges with a systematic and pragmatic mindset, always valuing efficiency and order.",
+                "strengths_weaknesses": "[NAME]'s attention to detail and exceptional organizational skills make [THEM] a valuable asset in any setting. [THEY] is disciplined and responsible, although [THEY] can sometimes be perceived as inflexible or overly cautious, especially in rapidly changing environments.",
+                "social_economic_aspect": "[NAME] thrives in roles that demand precision and consistency, such as in data analysis, accounting, or systems management. [THEY] has a strong work ethic and are often the person others rely on for accurate and thorough work.",
+                "relationships": "[NAME] is loyal and sincere in [THEIR] relationships, valuing stability and trust above all. [THEY] is not prone to grand emotional displays and may prefer showing [THEIR] affection through actions rather than words. [THEY] might need to make a conscious effort to be more open to emotional expressions from others.",
+                "social_life": "[NAME] prefers structured and familiar social settings, where [THEY] can engage in meaningful conversations. [THEY] is not typically the initiator of social events but are a dependable and thoughtful participant, although [THEY] may benefit from occasionally stepping out of [THEIR] comfort zone."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] exhibits a calm and collected demeanor, paired with an unwavering commitment to [THEIR] principles and duties. [THEY] is highly practical and approach life with a logical and straightforward mindset.",
+                "strengths_weaknesses": "[NAME]'s reliability and thoroughness are [THEIR] standout qualities. [THEY] excel in environments where consistency and attention to detail are valued. However, [THEY] might find it challenging to adapt to unforeseen changes and can be somewhat resistant to unorthodox methods or ideas.",
+                "social_economic_aspect": "[NAME] is well-suited for careers that require methodical thinking and a high degree of organization, such as in engineering, logistics, or compliance. [THEY] is respected for [THEIR] dependability and ability to deliver results with precision.",
+                "relationships": "[NAME] believes in the importance of loyalty and responsibility in relationships. [THEY] may not be the most verbally expressive, but [THEY] show [THEIR] care through actions and commitment. [THEY] may benefit from embracing more emotional openness and flexibility in [THEIR] personal interactions.",
+                "social_life": "[NAME] tends to prefer quiet, structured social activities over spontaneous or large gatherings. [THEY] value long-term friendships based on mutual respect and shared values, though [THEY] might occasionally find value in expanding [THEIR] social horizons."
+            }
+        }
+    },
+    "KGBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the epitome of calm and practicality, often approaching life with a reserved yet observant demeanor. [THEY] has a natural ability to understand how things work, showing a keen interest in practical applications and problem-solving.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] adaptability, resourcefulness, and ability to stay composed under pressure. [THEY] is excellent at troubleshooting and hands-on tasks. However, [THEY] may sometimes seem detached or indifferent to others, and [THEY] might struggle with long-term planning or expressing [THEIR] emotions.",
+                "social_economic_aspect": "[NAME] excels in fields that require technical skill and logical analysis, such as engineering, mechanics, or information technology. [THEY] is adept at working independently and are often drawn to tasks that involve a tangible, practical outcome.",
+                "relationships": "[NAME] values independence and personal space in [THEIR] relationships. [THEY] is loyal and straightforward but prefer actions over words to demonstrate [THEIR] feelings. [THEY] might need to work on being more communicative and emotionally available to [THEIR] close ones.",
+                "social_life": "[NAME] tends to have a small circle of close friends and may not be the most outgoing in social settings. [THEY] appreciate straightforward, no-nonsense interactions and may need to be more patient with differing perspectives and social intricacies."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a master of practicality and efficiency, approaching challenges with a cool head and a logical mindset. [THEY] possess a natural talent for understanding and manipulating mechanical or technical systems.",
+                "strengths_weaknesses": "[NAME] excels in situations that require quick thinking and hands-on problem-solving. [THEY] is independent and self-reliant, but this can sometimes lead to a tendency to isolate [THEMSELVES] or avoid deep emotional connections.",
+                "social_economic_aspect": "[NAME] is well-suited for careers that involve practical, real-world application of skills, such as in trades, technology, or forensic science. [THEY] has a knack for figuring out how things work, making [THEM] an invaluable asset in any technical or analytical role.",
+                "relationships": "[NAME] values simplicity and honesty in [THEIR] relationships and is typically straightforward in [THEIR] interactions. [THEY] might struggle with expressing [THEIR] feelings and may prefer showing affection through actions rather than words.",
+                "social_life": "[NAME] tends to be reserved in social settings, often observing and analyzing the situation before getting involved. [THEY] appreciate direct communication and practical discussions, and may need to work on being more open to emotional or abstract topics."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is the embodiment of quiet competence, tackling tasks with a pragmatic and focused approach. [THEY] is curious about how things work and are often involved in hands-on projects or explorations.",
+                "strengths_weaknesses": "[NAME]'s ability to remain calm and efficient, especially in challenging situations, is one of [THEIR] most notable strengths. [THEY] is resourceful and independent, though [THEY] may sometimes come off as aloof or uninterested in communal or team activities.",
+                "social_economic_aspect": "[NAME] thrives in environments that require technical expertise and the ability to work autonomously. [THEY] is particularly skilled in fields like architecture, aviation, or IT, where [THEY] can apply [THEIR] analytical skills and attention to detail.",
+                "relationships": "[NAME] approaches relationships with a no-frills attitude, valuing loyalty and practical support over grand gestures or emotional displays. [THEY] is dependable and straightforward but may need to work on expressing [THEIR] emotions more openly.",
+                "social_life": "[NAME] often prefers solitary or small-group activities where [THEY] can engage deeply with a specific interest or task. [THEY] value meaningful, straightforward interactions but might find it beneficial to occasionally step outside [THEIR] comfort zone in social scenarios."
+            }
+        }
+    },
+    "KGER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the epitome of kindness and dependability, always there to lend a helping hand. [THEY] approach life with a sense of duty and a deep care for the well-being of others, often putting [THEIR] own needs aside to support those around [THEM].",
+                "strengths_weaknesses": "[NAME]'s strengths lie in [THEIR] meticulous attention to detail and unwavering reliability. [THEY] is incredibly thorough and conscientious in all [THEIR] endeavors. However, [THEY] can sometimes be overly cautious and resistant to change, preferring to stick to the familiar. [THEY] may also struggle with asserting [THEMSELVES] in confrontational situations.",
+                "social_economic_aspect": "[NAME] excels in roles that require organization and a caring touch, such as in healthcare, education, or administrative positions. [THEY] is adept at creating and maintaining a harmonious and structured environment, both at home and in the workplace.",
+                "relationships": "[NAME] values stable, long-term relationships and is deeply loyal and supportive as a friend or partner. [THEY] take [THEIR] commitments seriously and are always ready to offer a listening ear. However, [THEY] might need to be more mindful of not overextending [THEMSELVES] and ensuring [THEY] also tend to [THEIR] own needs.",
+                "social_life": "[NAME] prefers quiet, intimate gatherings over large, noisy events. [THEY] enjoy deep, meaningful conversations and are known for [THEIR] empathy and thoughtfulness. While [THEY] is not typically the initiator of social activities, [THEY] is a valued and integral part of [THEIR] social circle."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a quiet cornerstone of [THEIR] community, providing support and stability wherever [THEY] go. [THEY] has a gentle, caring nature and take great satisfaction in helping others, often in a behind-the-scenes manner.",
+                "strengths_weaknesses": "[NAME]'s ability to notice and attend to the finer details is one of [THEIR] greatest strengths, along with [THEIR] dedication and loyalty. However, [THEY] might struggle with adapting to new environments or ideas and can be overly self-critical. [THEY] may also shy away from confrontation, preferring to keep the peace.",
+                "social_economic_aspect": "[NAME] is well-suited for roles that involve nurturing, support, and detailed work, such as in nursing, teaching, or administrative services. [THEY] take pride in [THEIR] work and are committed to doing [THEIR] best in any role.",
+                "relationships": "[NAME] values harmony and stability in [THEIR] relationships and is a reliable and thoughtful partner and friend. [THEY] is sensitive to the needs of others but need to ensure that [THEY] don't neglect [THEIR] own emotional well-being.",
+                "social_life": "[NAME] enjoys social interactions that are calm and meaningful, preferring small gatherings to large parties. [THEY] is a good listener and a loyal friend, but [THEY] might benefit from occasionally stepping out of [THEIR] comfort zone and trying new social activities."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] exudes warmth and reliability, always willing to go the extra mile to help those in need. [THEY] approach life with a quiet determination and a focus on creating a comfortable, stable environment for [THEMSELVES] and others.",
+                "strengths_weaknesses": "[NAME] is highly organized and attentive, with a strong sense of duty. [THEY] is excellent at following through on commitments. However, [THEY] can be somewhat resistant to change and may avoid taking risks, even when they might be beneficial. [THEY] also tend to be modest and may underplay [THEIR] achievements.",
+                "social_economic_aspect": "[NAME] thrives in roles that allow [THEM] to care for and support others, such as social work, counseling, or customer service. [THEY] has a knack for making people feel heard and understood, which is valuable in any service-oriented profession.",
+                "relationships": "[NAME] seeks deep, stable connections and is a faithful and considerate companion. [THEY] often put the needs of others before [THEIR] own, and while this is a noble trait, [THEY] should also remember to take care of [THEMSELVES].",
+                "social_life": "[NAME] prefers structured and familiar social activities where [THEY] can connect with others on a more personal level. [THEY] might find large, spontaneous social events challenging, but [THEY] is a cherished member of [THEIR] social circle due to [THEIR] genuine care and empathy."
+            }
+        }
+    },
+    "KGEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a gentle and artistic soul, viewing the world through a lens of aesthetics and emotion. [THEY] has a quiet yet passionate nature, often expressing [THEMSELVES] through creative endeavors and a deep appreciation for beauty.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] keen eye for detail, empathy, and adaptability. [THEY] is intuitive and often in tune with the emotions of others. However, [THEY] can sometimes be overly sensitive to criticism and may struggle with structure and long-term planning.",
+                "social_economic_aspect": "[NAME] excels in fields that allow for artistic expression and a personal touch, such as graphic design, music, or fashion. [THEY] thrive in environments where [THEY] can work independently and at [THEIR] own pace, allowing [THEIR] creativity to flourish.",
+                "relationships": "[NAME] seeks authentic, meaningful connections and often forms deep bonds with a select few. [THEY] is loyal and caring, but [THEY] might need to work on communicating [THEIR] needs more openly and not shying away from conflict.",
+                "social_life": "[NAME] enjoys social interactions that are low-key and genuine, preferring intimate gatherings to large, noisy parties. [THEY] is a good listener and a thoughtful friend, though [THEY] may sometimes need encouragement to step out of [THEIR] comfort zone."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] moves through life with a quiet grace and a keen sensitivity to the world around [THEM]. [THEY] has a natural inclination towards artistic expression, finding beauty and inspiration in the simplest of things.",
+                "strengths_weaknesses": "[NAME] possesses a deep well of empathy and a strong aesthetic sense, often expressing [THEMSELVES] through creative mediums. [THEY] is adaptable and open-minded but may struggle with structure and decisiveness, often preferring to live in the moment.",
+                "social_economic_aspect": "[NAME] thrives in environments that foster creativity and personal expression, such as in the arts, design, or animal care. [THEY] is intuitive and can connect with others on an emotional level, making [THEM] well-suited for roles that require compassion and understanding.",
+                "relationships": "[NAME] values genuine, heartfelt connections and approaches [THEIR] relationships with sincerity and warmth. [THEY] is supportive and caring, but [THEY] might need to work on asserting [THEMSELVES] and setting boundaries in interpersonal interactions.",
+                "social_life": "[NAME] enjoys social settings that are relaxed and authentic, often avoiding large, noisy gatherings for more intimate and meaningful interactions. [THEY] is a loyal and thoughtful friend, though [THEY] may sometimes need encouragement to step out and explore new social experiences."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is an embodiment of creativity and sensitivity, approaching life with a gentle and thoughtful demeanor. [THEY] find joy in the subtleties of the world, often drawn to artistic and natural beauty.",
+                "strengths_weaknesses": "[NAME]'s creativity and ability to appreciate the finer details of life are among [THEIR] greatest strengths. [THEY] is empathetic and compassionate, making [THEM] a great listener and friend. However, [THEY] may sometimes find it challenging to deal with highly structured environments or harsh criticism.",
+                "social_economic_aspect": "[NAME] is suited for roles that allow [THEM] to express [THEIR] creativity and care, such as in the visual or performing arts, or in fields like therapy or veterinary care. [THEY] has a knack for understanding emotions and creating beauty in various forms.",
+                "relationships": "[NAME] seeks harmony and depth in [THEIR] relationships and is often willing to go to great lengths to ensure the happiness of [THEIR] loved ones. While [THEY] is deeply caring, [THEY] need to remember to also prioritize [THEIR] own emotional well-being.",
+                "social_life": "[NAME] prefers environments where [THEY] can connect with others in a meaningful way, often enjoying quiet and intimate gatherings. [THEY] is a supportive and understanding companion, though [THEY] may benefit from occasionally stepping into more diverse social experiences."
+            }
+        }
+    },
+    "KOBR": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is the epitome of strategic thinking and long-term planning. [THEY] approach life with a logical and analytical mindset, always looking for patterns and underlying principles. [THEY] has a natural inclination towards innovation and efficiency.",
+                "strengths_weaknesses": "[NAME]'s key strengths include [THEIR] exceptional ability to analyze complex situations and develop comprehensive strategies. [THEY] is independent and confident in [THEIR] intellectual capabilities. However, [THEY] can sometimes come across as overly critical or dismissive of others' opinions if they don't align with [THEIR] own.",
+                "social_economic_aspect": "[NAME] excels in fields that require systematic thinking and a forward-looking approach, such as in science, engineering, or strategic planning. [THEY] is adept at identifying inefficiencies and implementing effective solutions.",
+                "relationships": "[NAME] values deep, intellectual connections and often seeks out relationships that offer mental stimulation. [THEY] is loyal and committed, but [THEY] may need to work on being more emotionally expressive and responsive to the emotional needs of others.",
+                "social_life": "[NAME] prefers structured and meaningful social interactions over casual or superficial engagements. [THEY] is often seen as a leader in intellectual discussions but might need to be more open to diverse perspectives and ways of thinking."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a visionary thinker, often ahead of [THEIR] time with [THEIR] insights and ideas. [THEY] approach life with a calculated and methodical mindset, always seeking to understand the world around [THEM] in a deeper, more comprehensive way.",
+                "strengths_weaknesses": "[NAME]'s strengths lie in [THEIR] exceptional critical thinking skills and ability to foresee long-term outcomes. [THEY] is highly independent and driven. However, [THEY] can sometimes be overly analytical, which may lead to a disconnect with others who have a more emotional approach.",
+                "social_economic_aspect": "[NAME] thrives in professions that challenge [THEIR] intellect and allow for strategic planning, such as in research, technology development, or upper management. [THEY] is adept at breaking down complex problems and devising innovative solutions.",
+                "relationships": "[NAME] values relationships that are based on mutual intellectual respect and understanding. [THEY] is not typically expressive with [THEIR] emotions, preferring to show [THEIR] affection through actions and commitment. [THEY] may need to work on being more openly communicative about [THEIR] feelings.",
+                "social_life": "[NAME] enjoys engaging in deep, thought-provoking conversations and often prefers a small circle of like-minded individuals to larger social gatherings. [THEY] can be perceived as reserved or introspective, and [THEY] may benefit from occasionally stepping outside [THEIR] comfort zone to explore different social settings."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is an intellectual powerhouse, known for [THEIR] strategic acumen and innovative ideas. [THEY] approach challenges with a highly analytical mindset, always searching for underlying systems and potential improvements.",
+                "strengths_weaknesses": "[NAME] possesses a strong ability to concentrate and delve deeply into complex subjects. [THEY] is decisive and efficient, often able to see the bigger picture where others may not. However, this can sometimes result in [THEM] appearing distant or disconnected from others, as [THEY] may prioritize logic over emotions.",
+                "social_economic_aspect": "[NAME] is well-suited for careers that require abstract thinking and strategic planning, such as in business consulting, scientific research, or systems analysis. [THEY] excel at identifying patterns and crafting long-term strategies.",
+                "relationships": "[NAME] seeks relationships that are intellectually stimulating and values partners who can challenge [THEM] mentally. [THEY] is loyal and reliable but may need to be more attentive to the emotional needs and expressions of [THEIR] loved ones.",
+                "social_life": "[NAME] tends to prefer solitary pursuits or small group interactions focused on shared interests. [THEY] can be an insightful and engaging conversationalist but may need to practice more patience and openness in social interactions that are outside [THEIR] usual areas of interest."
+            }
+        }
+    },
+    "KOBX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a quintessential thinker, constantly exploring new ideas and theories. [THEY] has a curious and analytical mind, often delving deep into topics that interest [THEM], and always seeking to understand the world on a deeper level.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] exceptional analytical abilities and innovative thinking. [THEY] is independent and often unorthodox in [THEIR] approach to problem-solving. However, [THEY] can sometimes struggle with indecisiveness and may become overly preoccupied with abstract thoughts, neglecting practical aspects.",
+                "social_economic_aspect": "[NAME] excels in fields that allow for intellectual exploration and creative problem-solving, such as research, technology, or philosophy. [THEY] thrive in environments that value autonomy and abstract thinking.",
+                "relationships": "[NAME] values relationships that are based on intellectual compatibility and shared interests. [THEY] may need to work on [THEIR] communication skills, particularly in expressing [THEIR] emotions and understanding the emotional needs of others.",
+                "social_life": "[NAME] prefers social interactions that are intellectually stimulating, often enjoying in-depth discussions on a variety of topics. [THEY] might find it challenging to engage in small talk or more mundane social activities and may benefit from being more open to a wider range of social experiences."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] navigates the world with a keen intellect and an open mind, always ready to explore new concepts and ideas. [THEY] approach problems with a logical and inventive mindset, often thinking outside the box.",
+                "strengths_weaknesses": "[NAME] excels in [THEIR] ability to analyze complex issues and come up with creative solutions. [THEY] is intellectually curious and enjoy learning for the sake of learning. However, [THEY] can sometimes be perceived as detached or absent-minded, and may struggle with practical details or routine tasks.",
+                "social_economic_aspect": "[NAME] is well-suited for careers in academia, research, or any field that involves theoretical and abstract thinking. [THEY] has a natural aptitude for understanding complex systems, whether they're in technology, science, or mathematics.",
+                "relationships": "[NAME] values relationships that stimulate [THEIR] intellect and offer opportunities for intellectual growth. [THEY] is honest and straightforward in [THEIR] interactions but might need to pay more attention to the emotional aspect of relationships.",
+                "social_life": "[NAME] enjoys engaging with a close-knit group of friends in thoughtful discussion and debate. [THEY] might find socializing in large groups or engaging in small talk less appealing, preferring instead to connect over shared interests and ideas."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] possesses a mind that is always buzzing with ideas and theories, often finding [THEMSELVES] lost in thought. [THEY] is drawn to intellectual challenges and enjoy dissecting and understanding complex concepts.",
+                "strengths_weaknesses": "[NAME]'s critical thinking skills and innovative approach to problem-solving are among [THEIR] most notable strengths. [THEY] value knowledge and truth above all. However, [THEY] can sometimes struggle with indecision and may overlook the emotional aspects of situations, focusing instead on logic and reason.",
+                "social_economic_aspect": "[NAME] thrives in environments that challenge [THEIR] intellect, such as scientific research, programming, or engineering. [THEY] is at [THEIR] best when given the freedom to explore and experiment with new ideas.",
+                "relationships": "[NAME] seeks partners and friends who appreciate [THEIR] intellectual curiosity and can engage in meaningful conversations. [THEY] is loyal and honest but may need to work on expressing affection more openly and understanding others' emotional needs.",
+                "social_life": "[NAME] prefers small gatherings or one-on-one interactions where deep, focused conversations can take place. [THEY] may not enjoy large social events as much, often feeling more comfortable in settings that allow for in-depth exploration of topics."
+            }
+        }
+    },
+    "KOER": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a thoughtful and idealistic individual, often driven by a deep sense of altruism and a desire to make the world a better place. [THEY] possess a unique blend of empathy and intuition, which [THEY] use to understand and help others.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] ability to deeply connect with others and [THEIR] insightful nature. [THEY] is often able to see beyond the surface and understand complex emotional undercurrents. However, [THEY] can sometimes become overwhelmed by the emotions of others and may struggle with setting boundaries.",
+                "social_economic_aspect": "[NAME] excels in roles that involve counseling, advocacy, or creative expression. [THEY] is drawn to professions where [THEY] can use [THEIR] insight and empathy to support and uplift others, such as in psychology, writing, or the arts.",
+                "relationships": "[NAME] seeks meaningful and deep connections in [THEIR] personal relationships. [THEY] is a loyal and caring partner or friend, often going out of [THEIR] way to ensure the well-being of [THEIR] loved ones. [THEY] might need to work on not sacrificing [THEIR] own needs for the sake of others.",
+                "social_life": "[NAME] prefers intimate and meaningful social interactions over large or superficial gatherings. [THEY] is a thoughtful and considerate companion, though [THEY] may sometimes need to be encouraged to share more of [THEMSELVES] with others."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] is a compassionate and intuitive soul, often found contemplating the deeper aspects of life and human connections. [THEY] has a natural inclination towards helping others and creating positive change in the world.",
+                "strengths_weaknesses": "[NAME]'s empathetic nature and intuitive understanding of people are [THEIR] most significant strengths. [THEY] is insightful and often think in terms of the bigger picture. However, [THEY] may become easily burdened by the troubles of others and can be prone to burnout if [THEY] do not take care of [THEMSELVES].",
+                "social_economic_aspect": "[NAME] is drawn to careers that align with [THEIR] values and allow [THEM] to contribute to the greater good, such as in non-profit organizations, counseling, or education. [THEY] thrive in environments where [THEY] can make a difference and connect with others on a meaningful level.",
+                "relationships": "[NAME] seeks depth and authenticity in [THEIR] relationships and often forms strong emotional connections with others. [THEY] is a supportive and understanding partner or friend, but [THEY] need to be mindful of not becoming overly self-sacrificing.",
+                "social_life": "[NAME] prefers engaging in deep, meaningful conversations and tends to shy away from superficial social interactions. [THEY] value a small circle of close friends, although [THEY] might sometimes need to be encouraged to step out and meet new people."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] approaches the world with a unique blend of idealism and empathy, often driven by a strong sense of moral purpose. [THEY] is thoughtful and reflective, constantly seeking to understand themselves and the world around them.",
+                "strengths_weaknesses": "[NAME] possesses a keen insight into human emotions and motivations. [THEY] is deeply compassionate and often feel a strong drive to help others. However, this sensitivity can sometimes lead to [THEM] feeling overwhelmed by external stresses, and [THEY] may struggle with setting effective personal boundaries.",
+                "social_economic_aspect": "[NAME] is naturally suited to roles that involve deep human understanding, such as psychology, writing, or advocacy work. [THEY] excel in fields where [THEY] can use [THEIR] intuition and empathy to guide [THEIR] actions and decisions.",
+                "relationships": "[NAME] values genuine, sincere connections and often goes above and beyond to care for the people in [THEIR] life. [THEY] seek relationships that are built on mutual understanding and respect, but [THEY] may need to be cautious of not neglecting [THEIR] own emotional needs.",
+                "social_life": "[NAME] enjoys quiet, meaningful interactions more than large social gatherings. [THEY] is a thoughtful and attentive listener, often providing insightful perspectives, though [THEY] may benefit from being more proactive in social situations."
+            }
+        }
+    },
+    "KOEX": {
+        "one": {
+            "content": {
+                "intro": "[NAME] is a true idealist, guided by [THEIR] values and beliefs. [THEY] approach life with a sense of wonder and a deep empathy for others. [THEY] is often creative and introspective, finding joy in expressing [THEMSELVES] through art, writing, or other forms of self-expression.",
+                "strengths_weaknesses": "[NAME]'s strengths include [THEIR] imagination, compassion, and ability to see the best in people. [THEY] is open-minded and can be incredibly passionate about causes [THEY] believe in. However, [THEY] may sometimes struggle with practical details and can be overly idealistic, which might lead to disappointment when reality doesn't align with [THEIR] expectations.",
+                "social_economic_aspect": "[NAME] is drawn to careers that allow [THEM] to express [THEIR] creativity and help others, such as in the arts, counseling, or education. [THEY] thrive in environments where [THEY] can work independently and align [THEIR] work with [THEIR] personal values.",
+                "relationships": "[NAME] values deep, meaningful relationships and seeks connections that go beyond the surface. [THEY] is a loyal and understanding partner or friend, often putting [THEIR] heart and soul into [THEIR] relationships. [THEY] might need to work on setting boundaries to protect [THEIR] emotional well-being.",
+                "social_life": "[NAME] prefers intimate gatherings and deep conversations to large social events. [THEY] is a thoughtful and caring presence in [THEIR] social circle, though [THEY] may sometimes need to be encouraged to venture out of [THEIR] comfort zone and engage in new experiences."
+            }
+        },
+        "two": {
+            "content": {
+                "intro": "[NAME] moves through life with a dreamy and reflective disposition, often absorbed in [THEIR] rich inner world. [THEY] is driven by [THEIR] values and a deep desire to understand and help others, often expressing [THEMSELVES] through artistic or humanitarian pursuits.",
+                "strengths_weaknesses": "[NAME]'s imagination and sensitivity are [THEIR] most notable strengths, enabling [THEM] to connect with others on an emotional level. [THEY] is deeply compassionate and empathetic. However, [THEY] might struggle with practical day-to-day tasks and can be prone to feeling misunderstood or out of place.",
+                "social_economic_aspect": "[NAME] thrives in careers that allow [THEM] to be expressive and align with [THEIR] personal beliefs, such as in writing, art, or non-profit work. [THEY] is motivated by a sense of purpose and desire to contribute to something larger than [THEMSELVES].",
+                "relationships": "[NAME] seeks authenticity and depth in [THEIR] relationships and often forms connections that are based on shared values and emotional understanding. [THEY] is caring and loyal but need to be mindful of not losing [THEMSELVES] in [THEIR] quest to help or please others.",
+                "social_life": "[NAME] prefers meaningful and quiet social interactions to large, noisy parties. [THEY] is an excellent listener and a supportive friend, although [THEY] may need to be encouraged to express [THEIR] own needs and desires more openly."
+            }
+        },
+        "three": {
+            "content": {
+                "intro": "[NAME] is a gentle and imaginative individual, often lost in thought and exploring various possibilities in [THEIR] mind. [THEY] approach life with a sense of curiosity and a deep empathy for the human experience.",
+                "strengths_weaknesses": "[NAME] excels in [THEIR] creative thinking and ability to empathize with others. [THEY] has a strong intuitive sense and often understand people on a level that goes beyond words. However, [THEY] can sometimes be overly idealistic and may avoid confrontation, which can lead to challenges in dealing with conflict.",
+                "social_economic_aspect": "[NAME] is naturally suited to roles that involve creative self-expression or helping others, such as psychology, teaching, or the creative arts. [THEY] find fulfillment in work that resonates with [THEIR] personal values and allows [THEM] to make a difference.",
+                "relationships": "[NAME] values genuine, heartfelt connections and approaches [THEIR] relationships with a lot of care and thoughtfulness. [THEY] seek harmony and understanding but might need to work on communicating [THEIR] own boundaries and needs more clearly.",
+                "social_life": "[NAME] enjoys spending time with a close group of friends, engaging in deep and meaningful conversations. [THEY] is a warm and empathetic presence but might sometimes need encouragement to participate in more diverse social activities."
+            }
+        }
+    }
+}

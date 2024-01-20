@@ -1,0 +1,123 @@
+{
+    "castle": {
+        "PGBR": {
+            "image": [
+                "PGBR_Peterhof-Palace.jpg",
+                "PGBR_Prague-Castle.jpg",
+                "PGBR_Taj-Mahal.jpg"
+            ]
+        },
+        "PGBX": {
+            "image": [
+                "PGBX_Peles-Castle.jpg",
+                "PGBX_Summer-Palace.jpg",
+                "PGBX_Warwick-Castle.jpg"
+            ]
+        },
+        "PGER": {
+            "image": [
+                "PGER_Forbidden-City.jpg",
+                "PGER_Kinkaku-ji.jpg",
+                "PGER_Mysore-Palace.jpg",
+                "PGER_Tower-of-London.jpg",
+                "PGER_Versailles.jpg"
+            ]
+        },
+        "PGEX": {
+            "image": [
+                "PGEX_Angkor-Wat.jpg",
+                "PGEX_Golden-Temple.jpg",
+                "PGEX_Temple-of-the-Emerald-Buddha.jpg"
+            ]
+        },
+        "POBR": {
+            "image": [
+                "POBR_Colosseum.jpg",
+                "POBR_Parthenon.jpg",
+                "POBR_Potala-Palace.jpg"
+            ]
+        },
+        "POBX": {
+            "image": [
+                "POBX_Bodiam-Castle.jpg",
+                "POBX_Borobudur.jpg",
+                "POBX_Eilean-Donan-Castle.jpg",
+                "POBX_Temple-of-Luxor.jpg"
+            ]
+        },
+        "POER": {
+            "image": [
+                "POER_Buckingham-Palace.jpg",
+                "POER_Catherine-Palace.jpg",
+                "POER_Hermitage-Museum.jpg"
+            ]
+        },
+        "POEX": {
+            "image": [
+                "POEX_Grand-Palace.jpg",
+                "POEX_Pena-Palace.jpg"
+            ]
+        },
+        "KGBR": {
+            "image": [
+                "KGBR_Buda-Castle.jpg",
+                "KGBR_Castle-Howard.jpg",
+                "KGBR_Kiyomizu-dera.jpg",
+                "KGBR_Todai-ji-Temple.jpg"
+            ]
+        },
+        "KGBX": {
+            "image": [
+                "KGBX_Fontainebleau.jpg",
+                "KGBX_Mont-Saint-Michel.jpg",
+                "KGBX_Predjama-Castle.jpg",
+                "KGBX_Vorontsov-Palace.jpg",
+                "KGBX_Vorontsov-Palace2.jpg"
+            ]
+        },
+        "KGER": {
+            "image": [
+                "KGER_Belvedere-Palace.jpg",
+                "KGER_Hampton-Court-Palace.jpg",
+                "KGER_Himeji-Castle.jpg",
+                "KGER_Matsumoto-Castle.jpg"
+            ]
+        },
+        "KGEX": {
+            "image": [
+                "KGEX_Bran-Castle.jpg",
+                "KGEX_Rambagh-Palace.jpg"
+            ]
+        },
+        "KOBR": {
+            "image": [
+                "KOBR_Neuschwanstein-Castle.jpg",
+                "KOBR_Palacio-Real.jpg",
+                "KOBR_Windsor-Castle.jpg"
+            ]
+        },
+        "KOBX": {
+            "image": [
+                "KOBX_Chichen-Itza.jpg",
+                "KOBX_Eilean-Donan-Castle.jpg",
+                "KOBX_Leeds-Castle.jpg"
+            ]
+        },
+        "KOER": {
+            "image": [
+                "KOER_Chambord.jpg",
+                "KOER_Chambord2.jpg",
+                "KOER_Gothic-Castle.jpg"
+            ]
+        },
+        "KOEX": {
+            "image": [
+                "KOEX_Alhambra.jpg",
+                "KOEX_Kazan.jpg",
+                "KOEX_Kazan2.jpg",
+                "KOEX_Tetonic.jpg",
+                "KOEX_Topkapi.jpg"
+            ]
+        }
+    }
+}

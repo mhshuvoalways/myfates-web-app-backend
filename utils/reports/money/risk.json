@@ -1,0 +1,466 @@
+{
+  "PGBR": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME] might exhibit a tendency to overlook emerging financial trends due to a preference for traditional methods. This conservative approach can sometimes hinder [THEIR] ability to capitalize on new investment opportunities and adapt to market fluctuations.",
+        "recommendations": {
+          "short_term": "For immediate improvement, [NAME] should consider staying abreast of current financial innovations and market movements. [THEY] could benefit from consulting financial experts or engaging in educational resources to broaden [THEIR] financial perspective.",
+          "long_term": "In the long term, it is beneficial for [NAME] to gradually incorporate a mix of traditional and modern investment approaches. This balanced strategy can help [THEM] to both safeguard [THEIR] assets and explore growth opportunities. Regular financial reviews and adjustments in line with evolving market conditions are recommended."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s approach to financial matters might be overly focused on immediate results and practicality, potentially leading to a neglect of long-term financial planning and investment opportunities. [THEY] could also struggle with adapting to rapid changes in the financial market due to a preference for established methods.",
+        "recommendations": {
+          "short_term": "It is advisable for [NAME] to start incorporating more forward-thinking strategies in [THEIR] financial planning. Engaging with financial advisors or attending workshops can provide [THEM] with insights into future-oriented investment options.",
+          "long_term": "For sustained financial success, [NAME] should consider integrating more flexible and dynamic approaches into [THEIR] financial strategy. This might include exploring diverse investment options and remaining open to adjusting [THEIR] financial plans in response to market trends and personal life changes."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s strong focus on structure and order might lead to a rigid approach to financial planning. [THEY] may be resistant to adapting to new financial strategies or technologies, potentially missing out on more efficient or profitable opportunities.",
+        "recommendations": {
+          "short_term": "[NAME] should consider exploring newer financial management tools and methods to enhance [THEIR] efficiency and adaptability. This can include digital budgeting tools or modern investment platforms.",
+          "long_term": "For long-term financial success, [NAME] is advised to periodically reassess [THEIR] investment strategies and remain open to diversifying [THEIR] portfolio. Embracing a balance of traditional and innovative investment approaches could provide [THEM] with a more robust financial foundation."
+        }
+      }
+    }
+  },
+  "PGBX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME] may display a propensity for impulsive financial decisions due to [THEIR] spontaneous nature. This can lead to inconsistent budgeting and a lack of long-term financial planning, potentially affecting [THEIR] financial stability.",
+        "recommendations": {
+          "short_term": "[NAME] should focus on developing a more structured approach to budgeting and spending. Tools and apps that track expenses in real-time could be particularly useful for [THEM] to gain better control over [THEIR] finances.",
+          "long_term": "In the long term, it's important for [NAME] to build a comprehensive financial plan that encompasses savings, investments, and retirement planning. Seeking advice from financial advisors could help [THEM] balance [THEIR] adventurous spirit with prudent financial strategies."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] might have a tendency to prioritize short-term gains over long-term financial security, often overlooking the importance of savings and investment diversification. [THEY] might also struggle with maintaining a consistent approach to financial management.",
+        "recommendations": {
+          "short_term": "It is advisable for [NAME] to start engaging in regular financial reviews to assess and adjust [THEIR] spending habits. Setting clear short-term financial goals can also provide [THEM] with a sense of direction and help avoid impulsive purchases.",
+          "long_term": "For [NAME]'s long-term financial health, diversifying investments and establishing an emergency fund are crucial steps. [THEY] should consider working with a financial planner to develop a strategy that aligns with [THEIR] dynamic lifestyle while ensuring financial growth and security."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME] may often find [THEMSELF] engaging in risky financial ventures due to [THEIR] love for excitement and challenge. While this can lead to high rewards, it also poses a risk of significant losses if not managed properly.",
+        "recommendations": {
+          "short_term": "[NAME] should consider adopting a more balanced approach to risk-taking in finances. Learning about risk management and diversification techniques can help mitigate potential losses while still allowing [THEM] to enjoy the thrill of investment.",
+          "long_term": "In the long term, it's beneficial for [NAME] to establish a solid financial foundation that can support [THEIR] adventurous pursuits. This includes building a robust savings plan, investing in a mix of low and high-risk opportunities, and regularly revising [THEIR] financial strategy to adapt to changing circumstances."
+        }
+      }
+    }
+  },
+  "PGER": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME] may tend to prioritize others' needs over their own financial goals, leading to overspending or neglecting their own long-term financial planning. Their generous nature might sometimes conflict with prudent financial management.",
+        "recommendations": {
+          "short_term": "To improve [THEIR] financial situation in the short term, [NAME] should consider setting clear boundaries for [THEIR] spending on others and focus on budgeting for [THEIR] own needs. Tools that track personal expenses and set limits could be highly beneficial.",
+          "long_term": "For long-term financial health, it's important for [NAME] to develop a comprehensive savings and investment plan. This should include setting aside funds for emergencies and future goals. Seeking advice from a financial advisor to balance [THEIR] altruistic tendencies with smart financial decisions is recommended."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] might struggle with impulsive buying, especially when it comes to fulfilling the needs or desires of loved ones. This can sometimes lead to financial strain due to unplanned expenditures.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to cultivate more mindful spending habits, possibly by maintaining a detailed record of all purchases. This could help in distinguishing between necessary expenses and discretionary spending.",
+          "long_term": "In the long run, establishing a robust financial plan that includes regular savings, investments, and a retirement fund is crucial. [NAME] would benefit from adopting a balanced approach to financial generosity, ensuring that [THEY] don't compromise [THEIR] own financial security."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s focus on maintaining harmony and stability might lead [THEM] to avoid necessary financial risks, potentially limiting [THEIR] wealth growth opportunities. [THEY] might also have a tendency to stick to traditional financial strategies, missing out on new investment trends.",
+        "recommendations": {
+          "short_term": "It would be beneficial for [NAME] to start exploring various investment options that offer a reasonable balance of risk and return. Learning about modern financial tools and methods can also help [THEM] stay updated with current trends.",
+          "long_term": "For sustained financial success, [NAME] should consider diversifying [THEIR] investment portfolio and regularly reassessing [THEIR] financial goals. Working with a financial advisor to navigate complex financial decisions while aligning with [THEIR] personal values and risk tolerance is advisable."
+        }
+      }
+    }
+  },
+  "PGEX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s love for spontaneity and enjoyment might lead to impulsive financial decisions, often resulting in erratic spending patterns and inadequate savings. This can hinder [THEIR] ability to plan for long-term financial goals.",
+        "recommendations": {
+          "short_term": "[NAME] should focus on creating a balanced budget that allows for fun and spontaneous activities while also prioritizing savings. Implementing tools that track spending in real-time could be particularly effective in helping [THEM] manage [THEIR] finances more consistently.",
+          "long_term": "For long-term financial health, it's crucial for [NAME] to engage in structured financial planning. This includes setting aside a portion of income for savings and investments. Exploring various investment options with a financial advisor could help [THEM] find the right balance between enjoying the present and securing [THEIR] future."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] might often prioritize immediate gratification over financial security, leading to challenges in building a stable financial future. [THEY] may also overlook the importance of financial planning and investing due to [THEIR] focus on the present.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to develop a more disciplined approach to spending, focusing on differentiating between wants and needs. Establishing a monthly budget and adhering to it can help [THEM] manage [THEIR] finances more effectively.",
+          "long_term": "In the long term, [NAME] would benefit from learning about various investment strategies that align with [THEIR] lifestyle. Regular consultations with a financial planner can help [THEM] build a diversified portfolio that caters to both [THEIR] current lifestyle and future financial needs."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s enthusiastic and sociable nature may lead to overspending in social situations or on experiences, potentially causing budget imbalances and a lack of savings for unforeseen expenses.",
+        "recommendations": {
+          "short_term": "[NAME] should consider setting clear financial limits for social activities and impulse purchases. Using apps that provide alerts when approaching set spending limits could be an effective tool for [THEM].",
+          "long_term": "For a secure financial future, [NAME] needs to focus on building a solid savings plan and consider long-term investment options. Engaging in regular financial planning sessions to review and adjust [THEIR] financial goals and strategies is advisable."
+        }
+      }
+    }
+  },
+  "POBR": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s assertive and ambitious nature might lead to overly aggressive financial strategies, potentially overlooking risks in pursuit of high returns. This approach could result in financial instability during market downturns or unexpected events.",
+        "recommendations": {
+          "short_term": "[NAME] should consider balancing [THEIR] bold financial moves with more conservative investments to mitigate risk. Adopting a more diversified investment strategy would help [THEM] maintain a stable financial base.",
+          "long_term": "For long-term financial health, it's crucial for [NAME] to engage in regular financial reviews and stay informed about market trends. This will enable [THEM] to make informed decisions and adjust [THEIR] strategies to align with changing market conditions and [THEIR] evolving financial goals."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may sometimes focus too heavily on long-term goals and high-yield investments, potentially neglecting the importance of liquidity and short-term financial stability.",
+        "recommendations": {
+          "short_term": "[NAME] should strive to establish a more balanced financial portfolio, ensuring a mix of short-term and long-term investments. Creating an emergency fund for unforeseen expenses would also be a prudent step for [THEM].",
+          "long_term": "In the long term, [NAME] would benefit from periodically reassessing [THEIR] financial goals and strategies to ensure they remain relevant and effective. Working with a financial advisor to explore a variety of investment options can help diversify [THEIR] portfolio and reduce risk."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s tendency to take charge and make swift decisions might sometimes result in hasty financial choices without thorough research or consideration of potential downsides.",
+        "recommendations": {
+          "short_term": "It is advisable for [NAME] to incorporate a more meticulous approach to financial decision-making. Taking time to analyze investments and their implications thoroughly can prevent potential losses and enhance financial stability.",
+          "long_term": "For sustainable financial growth, [NAME] should focus on creating a diverse investment portfolio that aligns with [THEIR] long-term ambitions while providing enough flexibility to adapt to market changes. Continuous learning and adapting [THEIR] financial strategies in response to new information and trends is key."
+        }
+      }
+    }
+  },
+  "POBX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s innovative and entrepreneurial spirit may sometimes lead to overly speculative financial ventures. [THEY] might engage in high-risk investments without adequate risk assessment, potentially jeopardizing [THEIR] financial stability.",
+        "recommendations": {
+          "short_term": "[NAME] should focus on developing a more balanced investment strategy that includes both high-risk and low-risk investments. Learning about risk management and diversification can help [THEM] make more informed decisions.",
+          "long_term": "For long-term financial security, [NAME] would benefit from establishing a solid foundation of stable investments, such as retirement funds and savings accounts. [THEY] should also consider consulting with a financial advisor to align [THEIR] adventurous investment ideas with a sustainable financial plan."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s tendency to constantly seek new opportunities may lead to a lack of focus in [THEIR] financial strategy, resulting in scattered investments and an unstructured approach to savings.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to streamline [THEIR] financial activities by setting clear short-term goals and focusing on a few key investment areas. Utilizing financial planning tools can help [THEM] track progress and stay on target.",
+          "long_term": "In the long term, [NAME] needs to develop a comprehensive and cohesive financial plan that takes into account [THEIR] propensity for innovation and change. Regularly reviewing and adjusting [THEIR] financial plan to ensure it aligns with [THEIR] evolving interests and goals is essential."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s penchant for challenging conventional wisdom can sometimes result in unorthodox financial decisions that may not always yield the expected outcomes. [THEY] might overlook traditional investment wisdom in favor of untested methods.",
+        "recommendations": {
+          "short_term": "It would be prudent for [NAME] to balance [THEIR] innovative approach with tried-and-true financial practices. Incorporating a mix of conventional and novel investment strategies could provide both stability and growth potential.",
+          "long_term": "For [NAME]'s long-term financial health, embracing a more structured approach to investment and savings, while still allowing room for creativity and experimentation, is recommended. Engaging with a diverse range of financial advisors can offer [THEM] a broader perspective on managing [THEIR] finances effectively."
+        }
+      }
+    }
+  },
+  "POER": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s empathetic and altruistic nature may lead to prioritizing others' needs over [THEIR] own financial goals, which can result in overspending or under-saving. [THEY] might also overlook the importance of personal financial planning in the effort to support others.",
+        "recommendations": {
+          "short_term": "[NAME] should work on establishing a balance between [THEIR] generosity and [THEIR] own financial wellbeing. Setting a budget for charitable contributions and gifts, and sticking to it, would be a beneficial start.",
+          "long_term": "For long-term financial stability, [NAME] needs to focus on creating a robust financial plan that includes regular savings, emergency funds, and retirement planning. Seeking professional financial advice could help [THEM] in aligning [THEIR] altruistic goals with sound financial strategies."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may sometimes be overly optimistic about financial outcomes, leading to underestimating risks in investments or overcommitting in financial ventures. This can sometimes result in financial setbacks or instability.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to adopt a more realistic and grounded approach to financial planning, including thorough risk assessment before making investment decisions. Enhancing [THEIR] financial literacy through courses or workshops can also be helpful.",
+          "long_term": "In the long term, it would be beneficial for [NAME] to diversify [THEIR] investment portfolio and establish a solid emergency fund. Regular financial check-ins to reassess and adjust [THEIR] plans in response to changing economic conditions are recommended."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s focus on harmony and people-oriented decisions may lead to a lack of assertiveness in financial negotiations or investments. [THEY] might avoid necessary financial confrontations or tough decisions, potentially affecting [THEIR] financial growth.",
+        "recommendations": {
+          "short_term": "[NAME] should work on developing [THEIR] assertiveness in financial matters. This includes being proactive in negotiating salaries or investment terms and being more decisive in financial decision-making.",
+          "long_term": "For long-term financial health, [NAME] should consider engaging with financial advisors who can offer objective and strategic advice. Building a diverse investment portfolio and regularly reviewing financial goals can help ensure a stable and prosperous financial future."
+        }
+      }
+    }
+  },
+  "POEX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s enthusiastic and imaginative nature might lead to optimistic financial projections that overlook practical limitations. [THEY] may also engage in impulsive spending, especially on ideas or projects that spark [THEIR] interest, leading to financial instability.",
+        "recommendations": {
+          "short_term": "[NAME] should focus on creating a realistic budget that allows for creative spending while also safeguarding [THEIR] financial stability. Implementing financial tracking tools can help [THEM] monitor and control [THEIR] expenditures more effectively.",
+          "long_term": "For long-term financial health, [NAME] would benefit from a structured financial plan that includes savings for emergencies and future goals. Consulting with a financial advisor can help [THEM] align [THEIR] innovative ideas with sound financial practices."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s penchant for exploring new possibilities can sometimes lead to a lack of consistency in financial planning. [THEY] may change [THEIR] financial strategies frequently, which can hinder the accumulation of wealth and savings.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to establish a more consistent approach to [THEIR] finances, focusing on maintaining a balance between flexibility and stability. Setting clear financial goals and working systematically towards them would be beneficial.",
+          "long_term": "In the long term, [NAME] needs to develop a comprehensive financial plan that takes into account [THEIR] dynamic lifestyle and changing interests. Regular financial reviews and adjustments will help ensure that [THEIR] financial strategies remain effective and relevant."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s desire for spontaneity and adventure may lead to unplanned expenditures and a lack of focus on long-term financial planning. This can result in insufficient savings and a lack of investment in [THEIR] future.",
+        "recommendations": {
+          "short_term": "[NAME] should consider adopting financial habits that allow for spontaneity while also ensuring fiscal responsibility. Creating a dedicated fund for spontaneous activities can help [THEM] manage [THEIR] finances without compromising [THEIR] enjoyment.",
+          "long_term": "For a stable financial future, [NAME] should focus on building a diversified investment portfolio and setting up a robust savings plan. Engaging with financial planning resources and advisors can provide [THEM] with the guidance needed to balance [THEIR] free-spirited nature with sound financial decision-making."
+        }
+      }
+    }
+  },
+  "KGBR": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s methodical and practical approach might lead to a somewhat risk-averse attitude in financial matters. This conservatism can sometimes prevent [THEM] from exploring investment opportunities that require a higher risk tolerance, potentially limiting financial growth.",
+        "recommendations": {
+          "short_term": "[NAME] should consider gradually incorporating moderate-risk investments into [THEIR] portfolio to diversify and potentially enhance returns. Learning about different investment strategies and their associated risks could be beneficial.",
+          "long_term": "For long-term financial planning, [NAME] would benefit from regularly reviewing and adjusting [THEIR] investment strategy to align with changing market conditions and [THEIR] financial goals. This includes considering a mix of traditional and more dynamic investment options."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may tend to focus heavily on savings and cost-cutting, sometimes at the expense of missing out on lucrative investment opportunities. [THEY] might also be hesitant to change [THEIR] established financial strategies, even when the situation warrants it.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to balance [THEIR] excellent saving habits with smart investing. Exploring low to medium-risk investment opportunities can help [THEM] build wealth without significantly stepping out of [THEIR] comfort zone.",
+          "long_term": "In the long term, it's important for [NAME] to stay informed about financial trends and consider periodic updates to [THEIR] financial plan. Consulting with a financial advisor can provide new insights and help [THEM] adapt [THEIR] strategies to changing economic landscapes."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s preference for traditional and proven financial strategies may lead to a reluctance in adopting new financial technologies and trends. This could result in missed opportunities for efficiency and growth.",
+        "recommendations": {
+          "short_term": "[NAME] should consider exploring modern financial tools and platforms that can offer enhanced management capabilities and potentially better returns. This includes digital budgeting tools and online investment platforms.",
+          "long_term": "For a robust financial future, [NAME] would benefit from a blend of traditional financial planning and openness to new investment avenues. Regularly updating [THEIR] financial knowledge and periodically reassessing [THEIR] portfolio can help [THEM] stay aligned with both [THEIR] goals and the latest market developments."
+        }
+      }
+    }
+  },
+  "KGBX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s independent and sometimes impulsive nature might lead to erratic financial decisions, especially when it comes to spontaneous purchases or investments. [THEY] may also neglect long-term financial planning due to a focus on the present.",
+        "recommendations": {
+          "short_term": "[NAME] should work on developing a more structured approach to [THEIR] finances, including setting up a budget and sticking to it. Utilizing financial tracking apps could help [THEM] gain better control over [THEIR] spending habits.",
+          "long_term": "For long-term financial stability, [NAME] needs to focus on consistent savings and investment strategies. Exploring various long-term investment options and setting clear financial goals can help [THEM] secure a stable financial future."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may sometimes prioritize immediate practical needs or desires over long-term financial security, leading to a lack of sufficient savings or investments for the future. [THEY] might also be hesitant to seek financial advice, preferring to rely on [THEIR] own judgement.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to balance [THEIR] immediate financial desires with the need for long-term planning. Setting aside a fixed percentage of [THEIR] income for savings each month could be a beneficial start.",
+          "long_term": "In the long term, it is important for [NAME] to engage in comprehensive financial planning, which includes retirement planning and exploring different investment avenues. Consulting with a financial expert can provide [THEM] with insights and strategies that align with [THEIR] individualistic approach."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s tendency to focus on hands-on, immediate problem-solving might lead to a neglect of broader financial strategies, such as diversification of investments or long-term financial security measures.",
+        "recommendations": {
+          "short_term": "It would be beneficial for [NAME] to begin incorporating strategic financial planning into [THEIR] routine. This includes setting up an emergency fund and starting to invest in low-risk opportunities as a way to build a financial safety net.",
+          "long_term": "For a secure financial future, [NAME] should consider expanding [THEIR] investment portfolio to include a variety of assets. Regularly revisiting and adjusting [THEIR] financial plan to adapt to changing economic conditions and [THEIR] own life changes is also advisable."
+        }
+      }
+    }
+  },
+  "KGER": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s strong sense of responsibility and caution may lead to overly conservative financial choices, potentially missing out on higher-yield investments. [THEY] might also prioritize others' financial needs over [THEIR] own, affecting [THEIR] ability to build personal wealth.",
+        "recommendations": {
+          "short_term": "[NAME] should consider balancing [THEIR] cautious approach with moderate-risk investments to potentially enhance [THEIR] financial returns. Setting clear boundaries for financial support to others can also help in maintaining [THEIR] own financial health.",
+          "long_term": "For long-term financial security, [NAME] would benefit from developing a comprehensive financial plan that includes retirement savings and investments. Regularly reviewing and adjusting this plan to align with changing life circumstances and financial goals is advisable."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may tend to avoid financial risks, preferring to stick with familiar and safe investment options. This can limit the growth of [THEIR] financial portfolio and may not always keep pace with inflation.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to educate [THEMSELF] on various investment options and consider diversifying [THEIR] portfolio to include a mix of stable and growth-oriented investments. Seeking advice from a financial planner could be beneficial in this regard.",
+          "long_term": "In the long term, [NAME] needs to focus on building a robust financial strategy that includes emergency funds, long-term savings, and investments. Periodically reassessing [THEIR] financial goals and adjusting [THEIR] strategy to meet these goals is key."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s preference for stability and routine may lead to a reluctance in adapting to new financial technologies and practices. [THEY] might also be hesitant to make changes in [THEIR] financial plan, even when it's beneficial.",
+        "recommendations": {
+          "short_term": "[NAME] should consider exploring new financial tools and resources to enhance [THEIR] financial management. This could include online budgeting tools or apps that provide insights into spending patterns.",
+          "long_term": "For a secure financial future, [NAME] should consider engaging in regular financial planning sessions. These sessions can help [THEM] stay updated with current financial trends and adapt [THEIR] strategies accordingly to ensure a stable and prosperous financial journey."
+        }
+      }
+    }
+  },
+  "KGEX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s artistic and spontaneous nature may lead to impulsive spending, especially on things that appeal to [THEIR] aesthetic sense or spur-of-the-moment experiences. This can result in a lack of structured financial planning and savings.",
+        "recommendations": {
+          "short_term": "[NAME] should work on developing a budget that allows for creative freedom while also prioritizing financial stability. Utilizing budgeting apps that track expenses could help [THEM] manage [THEIR] finances more effectively.",
+          "long_term": "For long-term financial health, [NAME] would benefit from establishing a savings plan and exploring investment options that align with [THEIR] values and lifestyle. Regular financial reviews to adjust [THEIR] strategies as [THEIR] needs and goals evolve are recommended."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] might prioritize present enjoyment and experiences over long-term financial planning, which could lead to insufficient savings and investment in [THEIR] future. [THEY] may also shy away from engaging in more complex financial matters.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to cultivate a balance between living in the moment and planning for the future. Setting aside a portion of [THEIR] income for savings and investments on a regular basis can help build financial security.",
+          "long_term": "In the long term, [NAME] needs to engage in comprehensive financial planning, including retirement and emergency funds. Exploring creative and flexible investment options that resonate with [THEIR] personal values and interests would be beneficial."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s adaptable and easy-going nature may lead to a lack of urgency in financial planning and saving for the future. [THEY] might also experience difficulty in maintaining consistency in [THEIR] financial habits.",
+        "recommendations": {
+          "short_term": "It would be beneficial for [NAME] to establish clear financial goals and adopt a more disciplined approach to achieving them. Creating a simple yet effective budgeting system can help [THEM] stay on track with [THEIR] finances.",
+          "long_term": "For a stable financial future, [NAME] should consider investing in a mix of short-term and long-term financial instruments. Regularly revising [THEIR] financial plan to adapt to changing life circumstances and goals is also advisable."
+        }
+      }
+    }
+  },
+  "KOBR": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s high standards and long-term focus might lead to overlooking short-term financial opportunities or being overly cautious in investments. [THEY] may also be reluctant to seek or accept external financial advice, preferring to rely on [THEIR] own analysis.",
+        "recommendations": {
+          "short_term": "[NAME] should consider balancing [THEIR] long-term financial strategies with opportunities for short-term gains. Exploring diverse investment options and staying open to new financial tools and technologies could be beneficial.",
+          "long_term": "For long-term financial stability, [NAME] would benefit from a diversified investment portfolio that aligns with [THEIR] strategic goals. Regularly reassessing and adjusting [THEIR] financial plan in response to market changes and personal circumstances is recommended."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s tendency for meticulous planning and high self-reliance can sometimes result in a rigid financial strategy, potentially missing out on innovative or higher-risk, higher-reward investments.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to incorporate flexibility into [THEIR] financial planning. This might involve experimenting with new investment strategies and staying informed about emerging financial trends and technologies.",
+          "long_term": "In the long term, [NAME] needs to focus on building a robust yet adaptable financial strategy that can withstand market fluctuations and personal life changes. Engaging with financial advisors for a broader perspective can also be advantageous."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s strategic and analytical approach may sometimes lead to overcomplicating simple financial decisions or hesitating to act on opportunities due to excessive analysis. This 'analysis paralysis' can hinder timely and effective financial actions.",
+        "recommendations": {
+          "short_term": "It would be beneficial for [NAME] to adopt a more pragmatic approach to financial decision-making. Setting clear criteria for investments and spending can help [THEM] make decisions more efficiently and confidently.",
+          "long_term": "For a secure financial future, [NAME] should consider creating a financial plan that balances long-term goals with the flexibility to capitalize on short-term opportunities. Regularly updating and simplifying [THEIR] financial strategies to ensure they remain effective and manageable is advisable."
+        }
+      }
+    }
+  },
+  "KOBX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s preference for theoretical and abstract thinking might lead to a lack of practical financial planning. [THEY] may also be prone to procrastinating on financial decisions or neglecting regular financial management.",
+        "recommendations": {
+          "short_term": "[NAME] should work on developing a more structured approach to managing [THEIR] finances, possibly by automating savings and bill payments. Utilizing budgeting apps and financial planning tools can help [THEM] stay on top of [THEIR] financial responsibilities.",
+          "long_term": "For long-term financial stability, [NAME] would benefit from establishing a comprehensive financial plan that includes retirement savings and investments. Periodically reviewing and adjusting [THEIR] financial plan to adapt to changing life circumstances and goals is important."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may have a tendency to focus on complex financial schemes or unconventional investments, overlooking simpler and more reliable financial strategies. This can sometimes lead to inconsistent financial outcomes.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to balance [THEIR] innovative financial ideas with proven and traditional financial practices. Participating in financial literacy programs could provide [THEM] with a solid foundation for making informed decisions.",
+          "long_term": "In the long term, it's beneficial for [NAME] to diversify [THEIR] investment portfolio to include a mix of traditional and alternative investments. Regularly consulting with financial advisors can help [THEM] maintain a balanced and growth-oriented financial plan."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s inclination towards analytical and solitary pursuits may result in a disinterest in actively managing [THEIR] personal finances, potentially leading to missed financial opportunities or lack of long-term planning.",
+        "recommendations": {
+          "short_term": "It would be advantageous for [NAME] to engage more actively in [THEIR] financial affairs, possibly by setting regular times to review and manage [THEIR] finances. Starting with simple, straightforward financial management tasks can help ease [THEM] into a more active role.",
+          "long_term": "For a secure financial future, [NAME] should consider the importance of diversified investments and retirement planning. Seeking occasional guidance from financial professionals can help [THEM] develop a more structured and effective financial strategy."
+        }
+      }
+    }
+  },
+  "KOER": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s idealistic and empathetic nature may lead to financial decisions driven more by emotion than practicality. [THEY] might prioritize helping others financially over [THEIR] own financial security, potentially leading to imbalanced finances.",
+        "recommendations": {
+          "short_term": "[NAME] should focus on creating a personal budget that allows for charitable giving while also ensuring [THEIR] own financial stability. Utilizing financial tracking tools can help [THEM] maintain a healthy balance.",
+          "long_term": "For long-term financial health, [NAME] would benefit from developing a comprehensive savings and investment plan. Consulting with a financial advisor can help [THEM] align [THEIR] altruistic goals with sound financial planning."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may sometimes be overly cautious or indecisive in financial matters due to a fear of making the wrong decision. This can result in missed opportunities or a lack of proactive financial growth.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to cultivate more confidence in [THEIR] financial decision-making by educating [THEMSELF] about basic investment and savings strategies. Starting with small, low-risk investments can help build this confidence.",
+          "long_term": "In the long term, it's important for [NAME] to develop a balanced financial plan that includes both conservative and growth-oriented investments. Regularly reviewing and adjusting [THEIR] financial strategies in response to life changes and market conditions is advisable."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s focus on the big picture and [THEIR] future-oriented thinking may lead to neglecting short-term financial planning. [THEY] might also experience difficulty in managing day-to-day financial tasks consistently.",
+        "recommendations": {
+          "short_term": "It would be beneficial for [NAME] to establish a routine for regular financial check-ins. Automating [THEIR] financial transactions, such as bill payments and savings, can help [THEM] manage [THEIR] finances more effectively.",
+          "long_term": "For a stable financial future, [NAME] should consider the importance of comprehensive financial planning that includes emergency funds, retirement savings, and investments. Engaging with financial planning resources and advisors can provide [THEM] with the guidance needed to balance [THEIR] visionary nature with practical financial needs."
+        }
+      }
+    }
+  },
+  "KOEX": {
+    "one": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s idealistic nature and focus on personal values may lead to financial decisions that are more emotionally driven than practically oriented. [THEY] might prioritize causes or projects close to [THEIR] heart over [THEIR] own financial stability.",
+        "recommendations": {
+          "short_term": "[NAME] should work on creating a balanced budget that allows for supporting causes [THEY] care about while ensuring personal financial security. Utilizing financial planning tools can help [THEM] track expenses and manage funds more effectively.",
+          "long_term": "For long-term financial health, [NAME] would benefit from establishing a structured savings plan and exploring diverse investment options. Consulting with a financial advisor who understands [THEIR] values and goals can help [THEM] achieve a balance between [THEIR] ideals and financial realities."
+        }
+      }
+    },
+    "two": {
+      "content": {
+        "financial_weaknesses": "[NAME] may sometimes struggle with consistent financial planning due to a tendency to focus on abstract ideas rather than practical details. This can result in irregular saving patterns and a lack of long-term financial strategy.",
+        "recommendations": {
+          "short_term": "[NAME] should aim to develop a more consistent approach to managing finances, including regular budgeting and saving. Starting with simple, achievable financial goals can help [THEM] build a stable financial foundation.",
+          "long_term": "In the long term, it's important for [NAME] to engage in comprehensive financial planning that includes retirement savings and investments. Regularly reviewing and adjusting [THEIR] financial plan to align with [THEIR] life goals and values is crucial."
+        }
+      }
+    },
+    "three": {
+      "content": {
+        "financial_weaknesses": "[NAME]'s focus on creativity and exploration may lead to a lack of attention to financial details and a tendency towards impulsive spending. [THEY] might also overlook the importance of financial security in pursuit of [THEIR] passions.",
+        "recommendations": {
+          "short_term": "It would be beneficial for [NAME] to adopt a more pragmatic approach to financial management. Implementing a straightforward budgeting system and setting aside funds for creative endeavors can help [THEM] manage [THEIR] finances without stifling [THEIR] creativity.",
+          "long_term": "For a stable financial future, [NAME] should consider investing in a mix of traditional and creative financial opportunities. Building a diverse portfolio and seeking advice from financial experts who appreciate [THEIR] unique perspective can help [THEM] achieve financial stability while pursuing [THEIR] passions."
+        }
+      }
+    }
+  }
+}
