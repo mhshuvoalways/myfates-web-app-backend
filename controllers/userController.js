@@ -44,7 +44,7 @@ const register = (req, res) => {
                       email: createUser.email,
                     },
                     process.env.SECRET,
-                    { expiresIn: "2h" }
+                    { expiresIn: "30m" }
                   );
                   new Auth(authObj)
                     .save()
@@ -99,7 +99,7 @@ const registerGoogle = (req, res) => {
                 email: createUser.email,
               },
               process.env.SECRET,
-              { expiresIn: "2h" }
+              { expiresIn: "30m" }
             );
             new Auth(authObj)
               .save()
@@ -131,7 +131,7 @@ const registerGoogle = (req, res) => {
                   email: findUser.email,
                 },
                 process.env.SECRET,
-                { expiresIn: "2h" }
+                { expiresIn: "30m" }
               );
               res.status(200).json({
                 message: "Thanks for login!",
@@ -171,7 +171,7 @@ const login = (req, res) => {
                           email: response.email,
                         },
                         process.env.SECRET,
-                        { expiresIn: "2h" }
+                        { expiresIn: "30m" }
                       );
                       res.status(200).json({
                         message: "Welcome back!",
@@ -210,7 +210,7 @@ const login = (req, res) => {
   }
 };
 
-const registerGoogleClient = (req, res, expiresIn, hasReports) => {
+const registerGoogleClient = (req, res, hasReports) => {
   const { email } = req.body;
   User.findOne({ email })
     .then((findUser) => {
@@ -231,7 +231,7 @@ const registerGoogleClient = (req, res, expiresIn, hasReports) => {
                 email: createUser.email,
               },
               process.env.SECRET,
-              { expiresIn: expiresIn ? expiresIn * 60 : "2h" }
+              { expiresIn: "30m" }
             );
             new Auth(authObj)
               .save()
@@ -264,7 +264,7 @@ const registerGoogleClient = (req, res, expiresIn, hasReports) => {
                   email: findUser.email,
                 },
                 process.env.SECRET,
-                { expiresIn: expiresIn ? expiresIn * 60 : "2h" }
+                { expiresIn: "30m" }
               );
               res.status(200).json({
                 message: "Thanks for login!",
@@ -284,7 +284,7 @@ const registerGoogleClient = (req, res, expiresIn, hasReports) => {
     });
 };
 
-const loginClient = (req, res, expiresIn, hasReports) => {
+const loginClient = (req, res, hasReports) => {
   const { email, password } = req.body;
   const validation = loginValidation({ email, password });
   if (validation.isValid) {
@@ -305,7 +305,7 @@ const loginClient = (req, res, expiresIn, hasReports) => {
                           email: response.email,
                         },
                         process.env.SECRET,
-                        { expiresIn: expiresIn ? expiresIn * 60 : "2h" }
+                        { expiresIn: "30m" }
                       );
                       res.status(200).json({
                         message: "Welcome back!",
@@ -405,7 +405,7 @@ const findMail = (req, res) => {
                   email: response.email,
                 },
                 process.env.SECRET,
-                { expiresIn: "2h" }
+                { expiresIn: "30m" }
               );
               if (authRes.strategy === "email") {
                 transporter(email, recoverPass(token));
@@ -458,7 +458,7 @@ const recoverPassword = (req, res) => {
                           email: response.email,
                         },
                         process.env.SECRET,
-                        { expiresIn: "2h" }
+                        { expiresIn: "30m" }
                       );
                       res.status(200).json({
                         token,

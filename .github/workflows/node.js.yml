@@ -26,3 +26,4 @@ jobs:
           echo "${{secrets.BACKEND_ENV}}" > .env
       - run: npm ci
       - run: npm run build --if-present
+      - run: pm2 restart myfates-web-app-backend
