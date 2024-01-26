@@ -4,7 +4,7 @@ const resend = new Resend(process.env.RESEND_KEY);
 
 module.exports = (sendto, templateName) => {
   resend.emails.send({
-    from: process.env.RESEND_USER,
+    from: "MyFates <noreply@mhshuvoalways.xyz>",
     to: sendto,
     subject: "MyFates",
     html: templateName,
