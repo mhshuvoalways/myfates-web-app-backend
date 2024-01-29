@@ -6,7 +6,7 @@ module.exports = (sendto, templateName) => {
   resend.emails.send({
     from: "MyFates <noreply@mhshuvoalways.xyz>",
     to: sendto,
-    subject: "MyFates",
+    subject: "Change password",
     html: templateName,
   });
 };
